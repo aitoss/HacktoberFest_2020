@@ -1798,6 +1798,10 @@ a:hover.back-to-top {
 	}
 	/* end of features */
 
+	/* .frames{
+		width: 50rem;
+		height: 30rem;
+	} */
 
 	/* Details Lightboxes */
 	.lightbox-basic {
@@ -2208,3 +2212,5 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width width 1200px */
+
+
