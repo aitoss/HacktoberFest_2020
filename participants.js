@@ -19,6 +19,7 @@ const participants = [
         "skills": ['All Open Source Technologies','Philosophy'],
         "description": "Student at AIT"
     },
+    {
         "name": "Akshay Sharma",
         "img": "https://avatars0.githubusercontent.com/u/47213544?s=400&u=2ead5be2dba2c7cea9fe1f7a6db53d25fa517d72&v=4",
         "title": "Organizer",
