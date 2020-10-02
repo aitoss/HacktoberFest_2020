@@ -10,6 +10,18 @@ const participants = [
         "skills": ['All Open Source Technologies'],
         "description": "A student driven Open Source Community at AIT, Pune."
     }
+
+    {
+        "id": 1,
+        "name": "Deepshikha Tripathi",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
+        "title": "OSS Sec",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['All Open Source Technologies'],
+        "description": "A student driven Open Source Community at AIT, Pune."
+    }
 ]
 
 function loadParticipants() {
