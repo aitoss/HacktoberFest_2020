@@ -11,7 +11,7 @@ const participants = [
     },
     {
         "name": "Akshay Sharma",
-        "img": "https://photos.app.goo.gl/oKNBxgkffECXEW5x7",
+        "img": "https://avatars0.githubusercontent.com/u/47213544?s=400&u=2ead5be2dba2c7cea9fe1f7a6db53d25fa517d72&v=4",
         "title": "Organizer",
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/akshaysharma008/",
