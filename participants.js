@@ -1,6 +1,5 @@
 const participants = [
     {
-        "id": 1,
         "name": "AIT-OSS",
         "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "Organizer",
@@ -9,6 +8,16 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['All Open Source Technologies'],
         "description": "A student driven Open Source Community at AIT, Pune."
+    },
+    {
+        "name": "Akshay Sharma",
+        "img": "https://avatars0.githubusercontent.com/u/47213544?s=400&u=2ead5be2dba2c7cea9fe1f7a6db53d25fa517d72&v=4",
+        "title": "Organizer",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/akshaysharma008/",
+        "github": "https://github.com/AkshaySharma008",
+        "skills": ['Angular', 'Nodejs' ,'Docker' , 'GCP'],
+        "description": "Secretary OSS Club and DSC Lead"
     }
 
     {
