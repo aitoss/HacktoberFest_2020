@@ -1,25 +1,14 @@
 const participants = [
     {
         "id": 1,
-        "name": "Satya Prakash",
-        "img": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg",
+        "name": "AIT-OSS",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "Organizer",
         "year": "BE - 2022",
-        "linkedIn": "https://www.linkedin.com/in/satya-prakash-0a982a130/",
-        "github": "https://www.github.com/satya9500",
-        "skills": ['UI/UX', 'C++', 'JavaScript', 'Angular', 'MongoDB', 'SQL'],
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
-    },
-    {
-        "id": 1,
-        "name": "Akshay Sharma",
-        "img": "https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg",
-        "title": "Organizer",
-        "year": "BE - 2022",
-        "linkedIn": "",
-        "github": "",
-        "skills": ['UI/UX', 'C++', 'JavaScript', 'Angular', 'MongoDB', 'SQL', 'React', 'Cloud Tech'],
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['All Open Source Technologies'],
+        "description": "A student driven Open Source Community at AIT, Pune."
     }
 ]
 
