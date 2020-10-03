@@ -16,8 +16,8 @@ const participants = [
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/shuvam-kumar-09512a168/",
         "github": "https://github.com/shuvamk",
-        "skills": ['All Open Source Technologies'],
-        "description": "A student driven Open Source Community at AIT, Pune."
+        "skills": ['All Open Source Technologies','Philosophy'],
+        "description": "Student at AIT"
     }
 ]
 
