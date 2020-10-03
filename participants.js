@@ -40,15 +40,76 @@ const participants = [
         "description": "A student driven Open Source Community at AIT, Pune."
     },
     {
-        "name": "Krunal Patil",
+        "name": "Aman Singh",
+        "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeg",
+        "title": "Open Source Enthusiast",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['Not afraid of learning new technologies'],
+        "description": ". code"
+    },
+    {
+        "name": "Shreya Dubey",
+        "img": "shreya_img.jpg",
+        "title": "Enthusiast",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/shreya-dubey-18022001/",
+        "github": "https://github.com/GOKU-Instinct",
+        "skills": ['C', 'C++' ,'Python', 'CP', 'Mathematics', 'Problem Solving'],
+        "description": "Competitive Programmer"
+    },
+    {
+        "name": "Aman Thakur",
+        "img": "https://avatars2.githubusercontent.com/u/54764701?s=400&u=5def19df00abf3b02e300874c05276203e4f5c8d&v=4",
+        "title": "Member of OSS",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/aman-thakur-47a75418b/",
+        "github": "https://github.com/jhonsnow456",
+        "skills": ['Python', 'Nodejs' ,'Django'],
+        "description": "Member of AIT OSS Club"
+    },
+    {
+        "name": "Arpit",
+        "img": "https://avatars3.githubusercontent.com/u/31367960?s=460&u=e9ca6daa43af40aa67f09cc0a2d9c9264e8d83bb&v=4",
+        "title": "An avid learner",
+        "year": "BE - 2021",
+        "linkedIn": "https://www.linkedin.com/in/arpit-kumar-mishra/",
+        "github": "https://github.com/arkumish",
+        "skills": ['MERN Stack', 'Explorer','Thinker'],
+        "description": "For description, check Linkedin 😁"
+    },
+    {
+        "name": "Aditya Tathagath",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
+        "title": "OSS Member",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['Python','Django','IoT'],
+        "description": ". code"
+    },
+    {
+        "name": "Maniraj Gautam",
+        "img": "https://avatars2.githubusercontent.com/u/26689017?s=400&u=3bd85e94d14b02eeba52b850732efd118dcf713e&v=4",
+        "title": "Open Source Enthusiast",
+        "year": "BCA - 2022",
+        "linkedIn": "https://www.linkedin.com/in/manirajgautam/",
+        "github": "https://github.com/Lucifermaniraj/",
+        "skills": ['All Open Source Technologies'],
+        "description": "A student "
+    },
+    {
+        "name": "gitkp11",
         "img": "https://avatars1.githubusercontent.com/u/47073116?s=400&u=ebfa6fd8b2545ee9f508534be5285eff3e090f5c&v=4",
-        "title": "Member",
+        "title": "Participant",
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
         "github": "https://github.com/gitkp11",
         "skills": ['C++', 'Python', 'Django'],
         "description": "Enthusiastic to learn new tech."
-    }
+    },
+    
 ]
 
 function loadParticipants() {
