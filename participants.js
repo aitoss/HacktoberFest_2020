@@ -10,6 +10,7 @@ const participants = [
         "description": "A student driven Open Source Community at AIT, Pune."
     },
     {
+<<<<<<< HEAD
         "name": "Shuvam Kumar",
         "img": "https://avatars0.githubusercontent.com/u/42249560?s=400&u=13aa2a8074b01629278602bc5ca640367ecf0b6e&v=4",
         "title": "Participant",
@@ -18,6 +19,27 @@ const participants = [
         "github": "https://github.com/shuvamk",
         "skills": ['All Open Source Technologies','Philosophy'],
         "description": "Student at AIT"
+=======
+        "name": "Akshay Sharma",
+        "img": "https://avatars0.githubusercontent.com/u/47213544?s=400&u=2ead5be2dba2c7cea9fe1f7a6db53d25fa517d72&v=4",
+        "title": "Organizer",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/akshaysharma008/",
+        "github": "https://github.com/AkshaySharma008",
+        "skills": ['Angular', 'Nodejs' ,'Docker' , 'GCP'],
+        "description": "Secretary OSS Club and DSC Lead"
+    },
+
+    {
+        "name": "Deepshikha Tripathi",
+        "img": "https://avatars1.githubusercontent.com/u/47073154?s=400&v=4",
+        "title": "OSS Sec",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['All Open Source Technologies'],
+        "description": "A student driven Open Source Community at AIT, Pune."
+>>>>>>> 6b14e7cb4e067cde897fcecc9f52c258e4ffd2da
     }
 ]
 
