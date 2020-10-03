@@ -49,7 +49,16 @@ const participants = [
         "skills": ['Not afraid of learning new technologies'],
         "description": ". code"
     }
-
+    {
+        "name": "Robert Tranchida",
+        "img": "https://avatars2.githubusercontent.com/u/67932344?s=460&u=f3c7d230f7bf357feb341cca0b4dec3d21c2b409&v=4",
+        "title": "CyberSecurity",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/robert-tranchida-5a1aa0a4/",
+        "github": "https://github.com/budaoist",
+        "skills": ['PHP, MySQL, A+, ITF+'],
+        "description": "Recent Graduate seeking to advance his skills."
+    }
 ]
 
 function loadParticipants() {
