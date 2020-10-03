@@ -49,6 +49,7 @@ const participants = [
       "skills":['Nodejs'],
       "description":"AIT STUDENT"
     }
+
 ]
 
 function loadParticipants() {
