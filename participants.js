@@ -48,6 +48,16 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['Not afraid of learning new technologies'],
         "description": ". code"
+    },
+    {
+        "name": "Algebron",
+        "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeg",
+        "title": "Open Source Contrinutor",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/algebron/",
+        "github": "https://github.com/algebron",
+        "skills": ['Web development','python development'],
+        "description": ". code"
     }
 
 ]
