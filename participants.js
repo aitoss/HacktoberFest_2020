@@ -41,14 +41,15 @@ const participants = [
     },
     {
         "name": "Mayank Kumar",
-        "img": "",
+        "img": "https://drive.google.com/file/d/1PG2h6PB0G9mm4SYoiE2kwLBwNeKXOkk7/view?usp=sharing",
         "title": "Participant",
         "year": "BE - 2023",
         "linkedIn": "#",
         "github": "https://github.com/mayank-Kr",
-        "skills": [''],
+        "skills": ['Sneak'],
         "description": "Student at AIT"
     }
+
 ]
 
 function loadParticipants() {
