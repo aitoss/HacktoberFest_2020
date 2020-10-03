@@ -64,9 +64,15 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Akshay Sharma](http://www.github.com/AkshaySharma008) participated here.
 + [Shuvam](http://www.github.com/shuvamk) participated here.
 <<<<<<< HEAD
+<<<<<<< HEAD
 + [Amit Bhuyan](http://www.bhuyanamit986) participated here.
 
 =======
 + [yashaswi](https://www.github.com/Nullcoder9) participated here.
 + [Satya Prakash](https://github.com/Satya-here) participated here.
 >>>>>>> upstream/master
+=======
++ [Amit Bhuyan](http://www.bhuyanamit986) participated here.
++ [yashaswi](https://www.github.com/Nullcoder9) participated here.
++ [Satya Prakash](https://github.com/Satya-here) participated here.
+>>>>>>> origin/master

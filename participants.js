@@ -53,8 +53,8 @@ const participants = [
         "name": "Amit Kumar Bhuyan",
         "img": "https://avatars3.githubusercontent.com/u/45561556?s=400&u=2825ec9a971a75cd42e8c4a2dd85000d69e2a4ed&v=4",
         "title": "ML",
-        "year": "BE - 2023",
-        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/amit-bhuyan-9636aa124/",
         "github": "https://github.com/bhuyanamit986",
         "skills": ['Python', 'C++', "Machine Learning"],
         "description": ". code"
