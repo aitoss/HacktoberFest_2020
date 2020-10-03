@@ -38,6 +38,26 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['All Open Source Technologies'],
         "description": "A student driven Open Source Community at AIT, Pune."
+    },
+    {
+        "name": "Aman Singh",
+        "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeg",
+        "title": "Open Source Enthusiast",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['Not afraid of learning new technologies'],
+        "description": ". code"
+    },
+    {
+        "name": "Aman Thakur",
+        "img": "https://avatars2.githubusercontent.com/u/54764701?s=400&u=5def19df00abf3b02e300874c05276203e4f5c8d&v=4",
+        "title": "Member of OSS",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/aman-thakur-47a75418b/",
+        "github": "https://github.com/jhonsnow456",
+        "skills": ['Python', 'Nodejs' ,'Django'],
+        "description": "Member of AIT OSS Club"
     }
 ]
 
