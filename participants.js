@@ -60,6 +60,16 @@ const participants = [
         "description": "Competitive Programmer"
     },
     {
+        "name": "Sunny Bhandari",
+        "img": "https://avatars2.githubusercontent.com/u/53352196?s=460&u=54844bbf6d7a6312ea02d4901fec3d7b4a89e1eb&v=4",
+        "title": "Participant",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/sunny-bhandari-7a2a96197/",
+        "github": "https://github.com/sunnybhandari02",
+        "skills": ['All Open Source Technologies'],
+        "description": "Student at Army Institute of Technology"
+    },
+    {
         "name": "Aman Thakur",
         "img": "https://avatars2.githubusercontent.com/u/54764701?s=400&u=5def19df00abf3b02e300874c05276203e4f5c8d&v=4",
         "title": "Member of OSS",
