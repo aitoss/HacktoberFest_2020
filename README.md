@@ -65,5 +65,4 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Akshay Sharma](http://www.github.com/AkshaySharma008) participated here.
 + [Shuvam](http://www.github.com/shuvamk) participated here.
 + [Harshvardhan Singh Shekhawat](https://github.com/harshvardhan194) participated here.
-
-
++ [Satya Prakash](https://github.com/Satya-here) participated here.
