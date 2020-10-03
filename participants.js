@@ -46,7 +46,7 @@ const participants = [
         "year": "BE - 2023",
         "linkedIn": "#",
         "github": "https://github.com/thanksalot123",
-        "skills": ["can cook poisonous pasta"],
+        "skills": ["can cook poisonous pasta , yes"],
         "description": "A student at AIT"
     }
 ]
