@@ -44,8 +44,8 @@ const participants = [
         "img": "https://miro.medium.com/fit/c/217/217/1*Hq9NDIorNstlA1IKDwmegQ.png",
         "title": "Participant",
         "year": "BE - 2023",
-        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
-        "github": "https://github.com/aitoss",
+        "linkedIn": "#",
+        "github": "https://github.com/Thanksalot123",
         "skills": ['basic web development','can make poisonous pasta'],
         "description": "An AIT Student"
     }
