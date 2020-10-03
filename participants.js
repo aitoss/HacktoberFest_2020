@@ -50,16 +50,34 @@ const participants = [
         "description": ". code"
     },
     {
+        "name": "Himanshu Shekhar Padhi",
+        "img": "https://avatars1.githubusercontent.com/u/66739388?s=400&u=a345c499d263b7b4086dea7c3c5ec2ec1bb7518e&v=4",
+        "title": "New to OSS world",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/himanshu-shekhar-padhi-15365a1b3/",
+        "github": "https://github.com/boom786",
+        "skills": ['Angular', 'Nodejs' ,'Competitive programmer' , 'C++' , 'GCP'],
+        "description": "Enthusiast"
+    },
+  {
+      "name": "Shreya Dubey",
+        "img": "shreya_img.jpg",
+        "title": "Enthusiast",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/shreya-dubey-18022001/",
+        "github": "https://github.com/GOKU-Instinct",
+        "skills": ['C', 'C++' ,'Python', 'CP', 'Mathematics', 'Problem Solving'],
+        "description": "Competitive Programmer"
+    },
+    {
         "name": "Aman Thakur",
         "img": "https://avatars2.githubusercontent.com/u/54764701?s=400&u=5def19df00abf3b02e300874c05276203e4f5c8d&v=4",
         "title": "Member of OSS",
         "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/in/aman-thakur-47a75418b/",
         "github": "https://github.com/jhonsnow456",
-<<<<<<< HEAD
         "skills": ['Python', 'Nodejs' ,'Django', 'C++'],
         "description": "Competive Progammer and Open Source Enthusiast"
-=======
         "skills": ['Python', 'Nodejs' ,'Django'],
         "description": "Member of AIT OSS Club"
     },
@@ -75,7 +93,7 @@ const participants = [
     },
     {
         "name": "Aditya Tathagath",
-        "img": "https://drive.google.com/file/d/1hOi7Kqg9yVatsfoWuTuJz911oFCwd7Wg/view?usp=sharing",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "OSS Member",
         "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
@@ -92,7 +110,16 @@ const participants = [
         "github": "https://github.com/Lucifermaniraj/",
         "skills": ['All Open Source Technologies'],
         "description": "A student "
->>>>>>> 8616e6d8f6fa7aca9b7de113500f888196015103
+    },
+    {
+        "name": "Ayush Pawar",
+        "img": "https://avatars0.githubusercontent.com/u/55341566?s=460&u=0508e5f4b2f2260826778add4a8ca8c185576a70&v=4",
+        "title": "Enthusiast",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/ayush-p-959701111/",
+        "github": "https://github.com/swift1719",
+        "skills": ['C/C++' ,'Java', 'MERN stack','Golang','CP'],
+        "description": "Open to Learn."
     }
 ]
 
