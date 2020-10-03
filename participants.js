@@ -38,6 +38,16 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['All Open Source Technologies'],
         "description": "A student driven Open Source Community at AIT, Pune."
+    },
+    {
+        "name": "Aditya Tathagath",
+        "img": "https://drive.google.com/file/d/1hOi7Kqg9yVatsfoWuTuJz911oFCwd7Wg/view?usp=sharing",
+        "title": "OSS Member",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['All Open Source Technologies'],
+        "description": "A student driven Open Source Community at AIT, Pune."
     }
 ]
 
