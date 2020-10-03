@@ -38,7 +38,18 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['All Open Source Technologies'],
         "description": "A student driven Open Source Community at AIT, Pune."
+    },
+    {
+        "name": "Nishu Rai",
+        "img": "https://avatars3.githubusercontent.com/u/54761473?s=460&u=70ff584a841f0748305e405fe3db9eca5ddd2608&v=4",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn": "linkedin.com/in/nishu-rai-320852190/",
+        "github": "https://github.com/nishu91020",
+        "skills": ['C++','Git & Github'],
+        "description": "Joint Secretary OSS Club"
     }
+   
 ]
 
 function loadParticipants() {
