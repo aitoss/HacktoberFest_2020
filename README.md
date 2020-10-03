@@ -75,4 +75,5 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Arpit](https://github.com/arkumish) participated here.
 + [Aditya Tathagath](https://github.com/adityatathagath) participated here.
 + [Maniraj Gautam](https://github.com/Lucifermaniraj) participated here.
++ [DeOxYs](https://github.com/DeOxYs24) participated here.
 
