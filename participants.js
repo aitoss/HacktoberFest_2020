@@ -38,6 +38,16 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['All Open Source Technologies'],
         "description": "A student driven Open Source Community at AIT, Pune."
+    },
+    {
+        "name": "Krunal Patil",
+        "img": "https://avatars1.githubusercontent.com/u/47073116?s=400&u=ebfa6fd8b2545ee9f508534be5285eff3e090f5c&v=4",
+        "title": "Member",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/gitkp11",
+        "skills": ['C++', 'Python', 'Django'],
+        "description": "Enthusiastic to learn new tech."
     }
 ]
 
