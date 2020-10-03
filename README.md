@@ -37,7 +37,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
   
    - **🍴Fork the repository:** `Look for the 'Fork' button in the repository pages`
    
-   - **💕Clone the repository:** `git clone https://github.com/YOUR_GITHUB_USER_NAME/HacktoberFes`
+   - **💕Clone the repository:** `git clone https://github.com/YOUR_GITHUB_USER_NAME/HacktoberFest`
    
    - **😎Code Blooded:**  `Make changes to the project`
    
@@ -63,4 +63,5 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Deepshikha](https://github.com/dipsXD) participated here.
 + [Akshay Sharma](http://www.github.com/AkshaySharma008) participated here.
 + [Shuvam](http://www.github.com/shuvamk) participated here.
++ [Shubham](http://www.github.com/shubham7298) participated here.
 
