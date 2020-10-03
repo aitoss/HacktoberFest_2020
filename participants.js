@@ -81,7 +81,7 @@ const participants = [
     },
     {
         "name": "Aditya Tathagath",
-        "img": "https://drive.google.com/file/d/1hOi7Kqg9yVatsfoWuTuJz911oFCwd7Wg/view?usp=sharing",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "OSS Member",
         "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
