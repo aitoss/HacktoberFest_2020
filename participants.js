@@ -50,6 +50,16 @@ const participants = [
         "description": ". code"
     },
     {
+        "name": "Aman Thakur",
+        "img": "https://avatars2.githubusercontent.com/u/54764701?s=400&u=5def19df00abf3b02e300874c05276203e4f5c8d&v=4",
+        "title": "Member of OSS",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/aman-thakur-47a75418b/",
+        "github": "https://github.com/jhonsnow456",
+        "skills": ['Python', 'Nodejs' ,'Django'],
+        "description": "Member of AIT OSS Club"
+    },
+    {
         "name": "Arpit",
         "img": "https://avatars3.githubusercontent.com/u/31367960?s=460&u=e9ca6daa43af40aa67f09cc0a2d9c9264e8d83bb&v=4",
         "title": "An avid learner",
