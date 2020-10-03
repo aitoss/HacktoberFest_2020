@@ -38,6 +38,16 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['All Open Source Technologies'],
         "description": "A student driven Open Source Community at AIT, Pune."
+    },
+     {
+        "name": "Akash Saxena",
+        "img": "https://avatars3.githubusercontent.com/u/54790554?s=60&v=4",
+        "title": "OSS Jt Sec",
+        "year": "SE - 2023",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['ReactJs','Bootstrap','JS','HTML','CS'],
+        "description": "A student driven Open Source Community at AIT, Pune."
     }
 ]
 
