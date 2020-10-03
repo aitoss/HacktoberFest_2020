@@ -48,6 +48,16 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['Not afraid of learning new technologies'],
         "description": ". code"
+    },
+    {
+        "name": "Mohit Saini",
+        "img": "https://avatars1.githubusercontent.com/u/61094186?s=460&u=4dbadae3eddb10851130da08f178761be278bc0c&v=4",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/mohit-saini-1906121a6/",
+        "github": "https://github.com/mskSaini01",
+        "skills": ['Problem Solving', 'ML Algorithms', 'C++', 'Python', 'Front-End Dev'],
+        "description": "AIT Student"
     }
 
 ]
