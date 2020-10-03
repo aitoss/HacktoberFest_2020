@@ -38,6 +38,16 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['All Open Source Technologies'],
         "description": "A student driven Open Source Community at AIT, Pune."
+    },
+    {
+        "name": "Ishan Awasthi",
+        "img": "#",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn": "#",
+        "github": "https://github.com/thanksalot123",
+        "skills": ['basic development','can cook poisonous pasta'],
+        "description": "A student at AIT"
     }
 ]
 
