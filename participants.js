@@ -28,7 +28,7 @@ const participants = [
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
         "github": "https://github.com/aitoss",
         "skills": ['Programming'],
-        "description": "OSS Secratary"
+        "description": "OSS Secretary"
     }
 ]
 
