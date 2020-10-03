@@ -50,6 +50,16 @@ const participants = [
         "description": ". code"
     },
     {
+        "name": "Arpit",
+        "img": "https://avatars3.githubusercontent.com/u/31367960?s=460&u=e9ca6daa43af40aa67f09cc0a2d9c9264e8d83bb&v=4",
+        "title": "An avid learner",
+        "year": "BE - 2021",
+        "linkedIn": "https://www.linkedin.com/in/arpit-kumar-mishra/",
+        "github": "https://github.com/arkumish",
+        "skills": ['MERN Stack', 'Explorer','Thinker'],
+        "description": "For description, check Linkedin 😁"
+    },
+    {
         "name": "Aditya Tathagath",
         "img": "https://drive.google.com/file/d/1hOi7Kqg9yVatsfoWuTuJz911oFCwd7Wg/view?usp=sharing",
         "title": "OSS Member",
