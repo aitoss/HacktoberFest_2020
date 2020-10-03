@@ -58,9 +58,9 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
   - **📥Merge the fetched updates:** `git merge origin/master`
   - **📤Push the updates the the online forked repository:** `git push origin master`
 
-# 👨‍💻Contributers/Participants
+# 👨‍💻Contributers/Participantsgit remote add upstream https://github.com/aitoss/HacktoberFest_2020.git
 + [Satya](http://www.github.com/satya9500) participated here.
 + [Deepshikha](https://github.com/dipsXD) participated here.
 + [Akshay Sharma](http://www.github.com/AkshaySharma008) participated here.
 + [Shuvam](http://www.github.com/shuvamk) participated here.
-+ [Tanvy Bhola](https://github.com/sashaen) participated here :) .
++ [Tanvy Bhola](https://github.com/sashaen) participated here :) :D  
