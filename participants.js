@@ -108,6 +108,16 @@ const participants = [
         "github": "https://github.com/Lucifermaniraj/",
         "skills": ['All Open Source Technologies'],
         "description": "A student "
+    },
+    {
+        "name": "Ayush Pawar",
+        "img": "https://avatars0.githubusercontent.com/u/55341566?s=460&u=0508e5f4b2f2260826778add4a8ca8c185576a70&v=4",
+        "title": "Enthusiast",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/ayush-p-959701111/",
+        "github": "https://github.com/swift1719",
+        "skills": ['C/C++' ,'Java', 'MERN stack','Golang','CP'],
+        "description": "Open to Learn."
     }
 ]
 
