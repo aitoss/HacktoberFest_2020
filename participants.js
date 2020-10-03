@@ -48,17 +48,8 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['Not afraid of learning new technologies'],
         "description": ". code"
-    },
-    {
-        "name": "Aditya Tathagath",
-        "img": "https://drive.google.com/file/d/1hOi7Kqg9yVatsfoWuTuJz911oFCwd7Wg/view?usp=sharing",
-        "title": "OSS Member",
-        "year": "BE - 2023",
-        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
-        "github": "https://github.com/aitoss",
-        "skills": ['Python','Django','IoT'],
-        "description": ". code"
     }
+
 ]
 
 function loadParticipants() {
