@@ -11,12 +11,9 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 - **Sign up anytime between October 1 and October 31.**
 
-# How to contribute?
-
-There are two ways to contribute to this repository! Lets jump into it!!!!
-
 # Setting up git in local system
-Download git from https://git-scm.com/downloads 
+Download git from https://git-scm.com/downloads
+
 - ## installation:
   
   - **[Go to link]( https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/ ):** `Follow upto step 14`
@@ -29,6 +26,10 @@ Download git from https://git-scm.com/downloads
   - **set your user name:** In cmd type->`git config --global user.name "John Doe"` 
   - **set email address :** In cmd type->`git config --global user.email johndoe@example.com`
   
+# How to contribute?
+
+There are two ways to contribute to this repository! Lets jump into it!!!!
+
 - ## Easy-Peasy way:
   
   - **🍴Fork the repository:**  `Look for the 'Fork' button in the repository pages`
