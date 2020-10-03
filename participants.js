@@ -38,6 +38,16 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['All Open Source Technologies'],
         "description": "A student driven Open Source Community at AIT, Pune."
+    },
+    {
+        "name": "Sri Vaishnav",
+        "img": "https://scontent.fhyd10-1.fna.fbcdn.net/v/t1.0-9/71271545_760268247727477_8001833249963769856_o.jpg?_nc_cat=101&_nc_sid=174925&_nc_ohc=4HkkLbkxEuwAX8WaoKp&_nc_ht=scontent.fhyd10-1.fna&oh=16f860e42d2fd6c1c06d47bb7cbc4381&oe=5F9F90D2",
+        "title": "Student",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/sri-vaishnav-vutukuri-3220ab192/",
+        "github": "https://github.com/sri-vaishnav",
+        "skills": ['Python','Php','Android Studio'],
+        "description": "A student intreseted in developing softwares at AIT, Pune."
     }
 ]
 
