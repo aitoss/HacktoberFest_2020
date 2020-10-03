@@ -39,6 +39,15 @@ const participants = [
         "skills": ['All Open Source Technologies'],
         "description": "A student driven Open Source Community at AIT, Pune."
     }
+    {
+        "name": "Deepshikha Tripathi",
+        "img": "https://avatars2.githubusercontent.com/u/51395975?s=460&v=4",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "github": "https://github.com/Purgeme",
+        "skills": ['All Open Source Technologies', 'Game Development'],
+        "description": "A student game developer."
+    }
 ]
 
 function loadParticipants() {
