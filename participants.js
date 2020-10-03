@@ -16,7 +16,7 @@ const participants = [
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/shuvam-kumar-09512a168/",
         "github": "https://github.com/shuvamk",
-        "skills": ['All Open Source Technologies','Philosophy'],
+        "skills": ['All Open Source Technologies', 'Philosophy'],
         "description": "Student at AIT"
     },
     {
@@ -26,7 +26,7 @@ const participants = [
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/akshaysharma008/",
         "github": "https://github.com/AkshaySharma008",
-        "skills": ['Angular', 'Nodejs' ,'Docker' , 'GCP'],
+        "skills": ['Angular', 'Nodejs', 'Docker', 'GCP'],
         "description": "Secretary OSS Club and DSC Lead"
     },
     {
@@ -48,14 +48,25 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['Not afraid of learning new technologies'],
         "description": ". code"
+    },
+    {
+        "name": "Harish Bajiya",
+        "img": "https://avatars2.githubusercontent.com/u/58135353?s=460&u=9909c0f062441abaaa86bc060dc8be622d3ff405&v=4",
+        "title": "Tech Enthusiast",
+        "year": "BE - 2024",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['Flutter', 'Vue.js'],
+        "description": "Code never lets you down"
     }
+
 
 ]
 
 function loadParticipants() {
     participants.forEach((participant) => {
-        let listed='';
-        participant.skills.forEach((skill)=>{
+        let listed = '';
+        participant.skills.forEach((skill) => {
             listed += `<li>${skill}</li>`;
         })
         const card = `<div class="col-md-3 mt-3">
