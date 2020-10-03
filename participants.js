@@ -59,7 +59,26 @@ const participants = [
         "skills": ['MERN Stack', 'Explorer','Thinker'],
         "description": "For description, check Linkedin 😁"
     },
-
+    {
+        "name": "Aditya Tathagath",
+        "img": "https://drive.google.com/file/d/1hOi7Kqg9yVatsfoWuTuJz911oFCwd7Wg/view?usp=sharing",
+        "title": "OSS Member",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['Python','Django','IoT'],
+        "description": ". code"
+    },
+    {
+        "name": "Maniraj Gautam",
+        "img": "https://avatars2.githubusercontent.com/u/26689017?s=400&u=3bd85e94d14b02eeba52b850732efd118dcf713e&v=4",
+        "title": "Open Source Enthusiast",
+        "year": "BCA - 2022",
+        "linkedIn": "https://www.linkedin.com/in/manirajgautam/",
+        "github": "https://github.com/Lucifermaniraj/",
+        "skills": ['All Open Source Technologies'],
+        "description": "A student "
+    }
 ]
 
 function loadParticipants() {
