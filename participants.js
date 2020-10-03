@@ -50,7 +50,17 @@ const participants = [
         "description": ". code"
     },
     {
-        "name": "Shreya Dubey",
+        "name": "Himanshu Shekhar Padhi",
+        "img": "https://avatars1.githubusercontent.com/u/66739388?s=400&u=a345c499d263b7b4086dea7c3c5ec2ec1bb7518e&v=4",
+        "title": "New to OSS world",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/himanshu-shekhar-padhi-15365a1b3/",
+        "github": "https://github.com/boom786",
+        "skills": ['Angular', 'Nodejs' ,'Competitive programmer' , 'C++' , 'GCP'],
+        "description": "Enthusiast"
+    },
+  {
+      "name": "Shreya Dubey",
         "img": "shreya_img.jpg",
         "title": "Enthusiast",
         "year": "BE - 2022",
