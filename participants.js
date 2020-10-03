@@ -48,6 +48,16 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['Not afraid of learning new technologies'],
         "description": ". code"
+    },
+    {
+        "name": "Shreya Dubey",
+        "img": "shreya_img.jpg",
+        "title": "Enthusiast",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/shreya-dubey-18022001/",
+        "github": "https://github.com/GOKU-Instinct",
+        "skills": ['C', 'C++' ,'Python', 'CP', 'Mathematics', 'Problem Solving'],
+        "description": "Competitive Programmer"
     }
 
 ]
