@@ -41,7 +41,7 @@ const participants = [
     },
     {
         "name": "Ishan Awasthi",
-        "img": "https://miro.medium.com/fit/c/217/217/1*Hq9NDIorNstlA1IKDwmegQ.png",
+        "img": "#",
         "title": "Participant",
         "year": "BE - 2023",
         "linkedIn": "#",
