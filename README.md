@@ -54,9 +54,8 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 
 - ## Updating your forked repository with that of the parent:
   - **📥Add master repo as upstream:** `git remote add upstream https://github.com/aitoss/HacktoberFest_2020.git`
-  - **📥Fetch the changes to the the forked repository:** `git fetch upstream`
-  - **📥Merge the fetched updates:** `git merge origin/master`
-  - **📤Push the updates the the online forked repository:** `git push origin master`
+  - **📥Fetch the changes to your local system:** `git pull upstream`
+  - **📤Push the updates to the online forked repository:** `git push origin master`
 
 # 👨‍💻Contributers/Participants
 + [Eppisai](http://www.github.com/eppisai) participated here.
@@ -64,6 +63,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Deepshikha](https://github.com/dipsXD) participated here.
 + [Akshay Sharma](http://www.github.com/AkshaySharma008) participated here.
 + [Shuvam](http://www.github.com/shuvamk) participated here.
++ [Pratik Sunil Phadtare](http://www.github.com/Pratik282001) participated here.
 + [N Pawan Kumar](https://github.com/npawankr1) participated here.
 + [Sachin Choudhary](http://www.github.com/sachin-611) participated here
 + [yashaswi](https://www.github.com/Nullcoder9) participated here.
@@ -82,4 +82,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Satya Prakash](https://github.com/Satya-here) participated here.
 + [Arpit](https://github.com/arkumish) participated here.
 + [Aditya Tathagath](https://github.com/adityatathagath) participated here.
++ [Aditya Tathagath](https://github.com/adityatathagath) participated here.
++ [Maniraj Gautam](https://github.com/Lucifermaniraj) participated here.
++ [DeOxYs](https://github.com/DeOxYs24) participated here.
 + [The-Fuse](https://github.com/The-Fuse) participated here.
