@@ -63,6 +63,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Deepshikha](https://github.com/dipsXD) participated here.
 + [Akshay Sharma](http://www.github.com/AkshaySharma008) participated here.
 + [Shuvam](http://www.github.com/shuvamk) participated here.
++ [Lavanya Jureddi](http://www.github.com/lavanya-tech) participated here.
 + [Ayushi](https://github.com/AYUSHII-SHARMA) participated here.
 + [yashaswi](https://www.github.com/Nullcoder9) participated here.
 + [Satya Prakash](https://github.com/Satya-here) participated here.
@@ -132,4 +133,3 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [The-Fuse](https://github.com/The-Fuse) participated here.
 + [Eppisai](http://www.github.com/eppisai) participated here.
 + [Saheel](https://github.com/Saheelkumar2410) participated here.
-
