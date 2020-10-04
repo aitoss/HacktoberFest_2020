@@ -16,7 +16,7 @@ const participants = [
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/shuvam-kumar-09512a168/",
         "github": "https://github.com/shuvamk",
-        "skills": ['All Open Source Technologies','Philosophy'],
+        "skills": ['All Open Source Technologies', 'Philosophy'],
         "description": "Student at AIT"
     },
     {
@@ -26,7 +26,7 @@ const participants = [
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/akshaysharma008/",
         "github": "https://github.com/AkshaySharma008",
-        "skills": ['Angular', 'Nodejs' ,'Docker' , 'GCP'],
+        "skills": ['Angular', 'Nodejs', 'Docker', 'GCP'],
         "description": "Secretary OSS Club and DSC Lead"
     },
     {
@@ -90,7 +90,17 @@ const participants = [
         "description": ". code"
     },
     {
-        "name": "Devansh Sharma",
+        "name": "Harish Bajiya",
+        "img": "https://avatars2.githubusercontent.com/u/58135353?s=460&u=9909c0f062441abaaa86bc060dc8be622d3ff405&v=4",
+        "title": "Tech Enthusiast",
+        "year": "BE - 2024",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['Flutter', 'Vue.js'],
+        "description": "Code never lets you down"
+    }, {
+        "name": "Shreya Dubey",
+        "img": "shreya_img.jpg",
         "img": "https://avatars1.githubusercontent.com/u/42490656?s=400&v=4",
         "title": "Participant",
         "year": "BE - 2022",
@@ -136,7 +146,7 @@ const participants = [
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/shreya-dubey-18022001/",
         "github": "https://github.com/GOKU-Instinct",
-        "skills": ['C', 'C++' ,'Python', 'CP', 'Mathematics', 'Problem Solving'],
+        "skills": ['C', 'C++', 'Python', 'CP', 'Mathematics', 'Problem Solving'],
         "description": "Competitive Programmer"
     },
     {
@@ -146,7 +156,7 @@ const participants = [
         "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/in/aman-thakur-47a75418b/",
         "github": "https://github.com/jhonsnow456",
-        "skills": ['Python', 'Nodejs' ,'Django', 'C++'],
+        "skills": ['Python', 'Nodejs', 'Django'],
         "description": "Competive Progammer and Open Source Enthusiast"
     },
     {
@@ -156,7 +166,7 @@ const participants = [
         "year": "BE - 2021",
         "linkedIn": "https://www.linkedin.com/in/arpit-kumar-mishra/",
         "github": "https://github.com/arkumish",
-        "skills": ['MERN Stack', 'Explorer','Thinker'],
+        "skills": ['MERN Stack', 'Explorer', 'Thinker'],
         "description": "For description, check Linkedin 😁"
     },
     {
@@ -166,7 +176,7 @@ const participants = [
         "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
         "github": "https://github.com/aitoss",
-        "skills": ['Python','Django','IoT'],
+        "skills": ['Python', 'Django', 'IoT'],
         "description": ". code"
     },
     {
@@ -243,8 +253,8 @@ const participants = [
 
 function loadParticipants() {
     participants.forEach((participant) => {
-        let listed='';
-        participant.skills.forEach((skill)=>{
+        let listed = '';
+        participant.skills.forEach((skill) => {
             listed += `<li>${skill}</li>`;
         })
         const card = `<div class="col-sm-12 col-md-6 col-lg-4 mt-3">
