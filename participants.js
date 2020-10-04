@@ -333,6 +333,15 @@ const participants = [
         "description": "A new recruit."
     },
     {
+        "name": "Meghaj Singh",
+        "img": "https://avatars0.githubusercontent.com/u/49283403?s=400&u=228bd9e514d69021dcae34d3d929c7b87381dbff&v=4",
+        "title": "Coping up with Tech!",
+        "year": "BE-2022",
+        "linkedIn" : "https://www.linkedin.com/in/meghaj-singh-545846167/",
+        'github': "https://github.com/memeghaj10",
+        "skills": ['C++','Python','NLP & NLTK','Web Development using MERN stack','Data Science'],
+        "description": "A young learner."
+    }, {
         "name":"Sachin Choudhary",
         "img":"https://avatars2.githubusercontent.com/u/54989437?s=460&u=b0a939329e8daa072469b228349c1e9927a29a30&v=4",
         "title":"Noobie",
