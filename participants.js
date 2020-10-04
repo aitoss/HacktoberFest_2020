@@ -40,6 +40,26 @@ const participants = [
         "description": "A student driven Open Source Community at AIT, Pune."
     },
     {
+        "name": "N Pawan Kumar",
+        "img": "https://avatars1.githubusercontent.com/u/58778029?s=460&u=90bda2297fc6557c8bd72171d42f0dae879931f9&v=4",
+        "title": "New to OSS",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/n-pawan-kumar-5170761b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByyIgoi%2FcR1%2Blr6QiXnXdwg%3D%3D",
+        "github": "https://github.com/npawankr1",
+        "skills": ['Python','Nodejs','CP'],
+        "description": "A Learner"
+    },
+    {
+        "name": "Sri Vaishnav",
+        "img": "https://scontent.fhyd10-1.fna.fbcdn.net/v/t1.0-9/71271545_760268247727477_8001833249963769856_o.jpg?_nc_cat=101&_nc_sid=174925&_nc_ohc=4HkkLbkxEuwAX8WaoKp&_nc_ht=scontent.fhyd10-1.fna&oh=16f860e42d2fd6c1c06d47bb7cbc4381&oe=5F9F90D2",
+        "title": "Student",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/sri-vaishnav-vutukuri-3220ab192/",
+        "github": "https://github.com/sri-vaishnav",
+        "skills": ['Python','Php','Android Studio'],
+        "description": "A student intreseted in developing softwares at AIT, Pune."
+    },
+    {
         "name": "Akash Saxena",
         "img": "https://avatars3.githubusercontent.com/u/54790554?s=60&v=4",
         "title": "OSS Jt Sec",
@@ -69,7 +89,7 @@ const participants = [
         "skills": ['Angular', 'Nodejs' ,'Competitive programmer' , 'C++' , 'GCP'],
         "description": "Enthusiast"
     },
-  {
+    {
       "name": "Shreya Dubey",
         "img": "shreya_img.jpg",
         "title": "Enthusiast",
@@ -120,6 +140,16 @@ const participants = [
         "description": "A student "
     },
     {
+        "name":"Sachin Choudhary",
+        "img":"https://avatars2.githubusercontent.com/u/54989437?s=460&u=b0a939329e8daa072469b228349c1e9927a29a30&v=4",
+        "title":"Noobie",
+        "year":"BE-2023",
+        "linkedIn":"https://www.linkedin.com/in/sachin-choudhary-7037381a9/",
+        "github":"https://github.com/sachin-611",
+        "skills":['C++','python'],
+        "description":"Student at AIT"
+    },
+    {
         "name": "Ayush Pawar",
         "img": "https://avatars0.githubusercontent.com/u/55341566?s=460&u=0508e5f4b2f2260826778add4a8ca8c185576a70&v=4",
         "title": "Enthusiast",
@@ -127,6 +157,26 @@ const participants = [
         "linkedIn": "https://www.linkedin.com/in/ayush-p-959701111/",
         "github": "https://github.com/swift1719",
         "skills": ['C/C++' ,'Java', 'MERN stack','Golang','CP'],
+        "description": "Open to Learn."
+    },
+    {
+        "name": "Rohit Kumar",
+        "img": "https://avatars3.githubusercontent.com/u/54764235?s=400&u=2e370122d903ce7073fd3419f33d43a602d83995&v=4",
+        "title": "Open Source Enthusiast",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/rohitkumar-yadav/",
+        "github": "https://github.com/The-Fuse",
+        "skills": ['C++' ,'Android development'],
+        "description": "Breaking the chain through the fuse"
+    },
+    {
+        "name": "Ankit Kumar",
+        "img": "https://avatars0.githubusercontent.com/u/56212417?s=460&amp;u=95a0155aade927a25bdc8d516d54c872a21ce1a0&amp;v=4",
+        "title": "OSS club Member",
+        "year": "SE 2020",
+        "linkedIn": "https://www.linkedin.com/in/ankit-kumar-706243125/",
+        "github": "https://github.com/cnarte",
+        "skills": ['Tensorflow' ,'GCP', 'Flask','IBM-Qiskit'],
         "description": "Open to Learn."
     }
 ]
@@ -137,7 +187,7 @@ function loadParticipants() {
         participant.skills.forEach((skill)=>{
             listed += `<li>${skill}</li>`;
         })
-        const card = `<div class="col-md-3 mt-3">
+        const card = `<div class="col-sm-12 col-md-6 col-lg-4 mt-3">
         <div class="card-container">
             <span class="pro">${participant.title}</span>
             <img
