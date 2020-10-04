@@ -5,6 +5,7 @@
 }
 
 body {
+    padding:2%;
     overflow-x: hidden;
     text-align: center;
     font-family: Montserrat, sans-serif !important ;
@@ -49,12 +50,12 @@ p {
     position: absolute;
     top: 15px;
     left: 15px;
-
 }
 
 .card-container .round {
     border-radius: 50%;
     padding: 7px;
+    margin-left:2%;
 }
 
 .round {
