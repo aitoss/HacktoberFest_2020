@@ -248,6 +248,16 @@ const participants = [
         "github": "https://github.com/DeOxYs24",
         "skills": ['Not afraid of learning new tech'],
         "description": "A new recruit."
+    },
+    {
+        "name":"Sachin Choudhary",
+        "img":"https://avatars2.githubusercontent.com/u/54989437?s=460&u=b0a939329e8daa072469b228349c1e9927a29a30&v=4",
+        "title":"Noobie",
+        "year":"BE-2023",
+        "linkedIn":"https://www.linkedin.com/in/sachin-choudhary-7037381a9/",
+        "github":"https://github.com/sachin-611",
+        "skills":['C++','python'],
+        "description":"Student at AIT"
     }
 ]
 
