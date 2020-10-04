@@ -58,11 +58,11 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
   - **📤Push the updates to the online forked repository:** `git push origin master`
 
 # 👨‍💻Contributers/Participants
-+ [Eppisai](http://www.github.com/eppisai) participated here.
 + [Satya](http://www.github.com/satya9500) participated here.
 + [Deepshikha](https://github.com/dipsXD) participated here.
 + [Akshay Sharma](http://www.github.com/AkshaySharma008) participated here.
 + [Shuvam](http://www.github.com/shuvamk) participated here.
++ [Priya](http://www.github.com/priya2668135) participated here.
 + [Pratik Sunil Phadtare](http://www.github.com/Pratik282001) participated here.
 + [N Pawan Kumar](https://github.com/npawankr1) participated here.
 + [Sachin Choudhary](http://www.github.com/sachin-611) participated here
@@ -86,3 +86,4 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Maniraj Gautam](https://github.com/Lucifermaniraj) participated here.
 + [DeOxYs](https://github.com/DeOxYs24) participated here.
 + [The-Fuse](https://github.com/The-Fuse) participated here.
++ [Eppisai](http://www.github.com/eppisai) participated here.
