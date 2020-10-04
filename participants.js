@@ -90,6 +90,16 @@ const participants = [
         "description": ". code"
     },
     {
+        "name": "Devansh Sharma",
+        "img": "https://avatars1.githubusercontent.com/u/42490656?s=400&v=4",
+        "title": "Participant",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/devansh9011",
+        "skills": ['C','C++','CP','python','Mathematics','HTML','CSS','JS'],
+        "description": "Student at AIT"
+    },
+      {
         "name": "Ishan Awasthi",
         "img": "#",
         "title": "Participant",
