@@ -138,6 +138,16 @@ const participants = [
         "github": "https://github.com/swift1719",
         "skills": ['C/C++' ,'Java', 'MERN stack','Golang','CP'],
         "description": "Open to Learn."
+    },
+    {
+        "name": "Rohit Kumar",
+        "img": "https://avatars0.githubusercontent.com/u/55341566?s=460&u=0508e5f4b2f2260826778add4a8ca8c185576a70&v=4",
+        "title": "Open Source Enthusiast",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/rohitkumar-yadav/",
+        "github": "https://github.com/The-Fuse",
+        "skills": ['C++' ,'Android development'],
+        "description": "Breaking the chain through the fuse"
     }
 ]
 
