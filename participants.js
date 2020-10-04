@@ -341,6 +341,16 @@ const participants = [
         "github":"https://github.com/sachin-611",
         "skills":['C++','python'],
         "description":"Student at AIT"
+    },
+    {
+        "name":"Anuranjan Pandey",
+        "img":"https://avatars0.githubusercontent.com/u/53137708?s=400&u=88f891101c0a4b62095e5b8733f7670ebd8ee73d&v=4",
+        "title":"Participant",
+        "year":"BE-2023",
+        "linkedIn":"https://www.linkedin.com/in/anuranjan-pandey-8b8623140/",
+        "github":"https://github.com/anuranjanpandey",
+        "skills":['C++', 'Python'],
+        "description":"Student at AIT"
     }
     {
         "name": "Deepshikha Tripathi",
