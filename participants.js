@@ -38,6 +38,16 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['All Open Source Technologies'],
         "description": "A student driven Open Source Community at AIT, Pune."
+    },
+    {
+        "name": "N Pawan Kumar",
+        "img": "https://avatars1.githubusercontent.com/u/58778029?s=460&u=90bda2297fc6557c8bd72171d42f0dae879931f9&v=4",
+        "title": "New to OSS",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/n-pawan-kumar-5170761b9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByyIgoi%2FcR1%2Blr6QiXnXdwg%3D%3D",
+        "github": "https://github.com/npawankr1",
+        "skills": ['Python','Nodejs','CP'],
+        "description": "A Learner"
     }
 ]
 
