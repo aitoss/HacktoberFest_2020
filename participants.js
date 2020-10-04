@@ -59,6 +59,7 @@ const participants = [
         "skills": ['Python','SQL'],
         "description": "Student at AIT"
     },
+    {
         "name": "Himanshu Shekhar Padhi",
         "img": "https://avatars1.githubusercontent.com/u/66739388?s=400&u=a345c499d263b7b4086dea7c3c5ec2ec1bb7518e&v=4",
         "title": "New to OSS world",
@@ -68,8 +69,7 @@ const participants = [
         "skills": ['Angular', 'Nodejs' ,'Competitive programmer' , 'C++' , 'GCP'],
         "description": "Enthusiast"
     },
-  {
-      "name": "Shreya Dubey",
+    {   "name": "Shreya Dubey",
         "img": "shreya_img.jpg",
         "title": "Enthusiast",
         "year": "BE - 2022",
