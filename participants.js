@@ -32,12 +32,12 @@ const participants = [
     {
         "name": "Deepshikha Tripathi",
         "img": "https://avatars1.githubusercontent.com/u/47073154?s=400&v=4",
-        "title": "OSS Sec",
+        "title": "Participant",
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
         "github": "https://github.com/aitoss",
-        "skills": ['All Open Source Technologies'],
-        "description": "A student driven Open Source Community at AIT, Pune."
+        "skills": ['Programming'],
+        "description": "OSS Secretary"
     },
     {
         "name": "N Pawan Kumar",
