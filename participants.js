@@ -16,7 +16,7 @@ const participants = [
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/shuvam-kumar-09512a168/",
         "github": "https://github.com/shuvamk",
-        "skills": ['All Open Source Technologies','Philosophy'],
+        "skills": ['All Open Source Technologies', 'Philosophy'],
         "description": "Student at AIT"
     },
     {
@@ -26,7 +26,7 @@ const participants = [
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/akshaysharma008/",
         "github": "https://github.com/AkshaySharma008",
-        "skills": ['Angular', 'Nodejs' ,'Docker' , 'GCP'],
+        "skills": ['Angular', 'Nodejs', 'Docker', 'GCP'],
         "description": "Secretary OSS Club and DSC Lead"
     },
     {
@@ -38,6 +38,16 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['Programming'],
         "description": "OSS Secretary"
+    },
+    {
+        "name": "Shailesh Kumar Sahu",
+        "img": "https://user-images.githubusercontent.com/36515927/57946981-4ae29b00-78fb-11e9-9159-abe920b00be5.jpg",
+        "title": "OSS club mentor",
+        "year": "BE - 2021",
+        "linkedIn": "https://www.linkedin.com/in/shellkore",
+        "github": "https://github.com/shellkore",
+        "skills": ['Python','Flask/FastAPI/Django','openCV','AWS','shell'],
+        "description": "Former OSS Management Head"
     },
     {
         "name": "N Pawan Kumar",
@@ -70,6 +80,19 @@ const participants = [
         "description": "A student driven Open Source Community at AIT, Pune."
     },
     {
+        "name": "Mayank Kumar",
+        "img": "https://drive.google.com/file/d/1PG2h6PB0G9mm4SYoiE2kwLBwNeKXOkk7/view?usp=sharing",
+        "title": "Participant",
+        "name": "Nishu Rai",
+        "img": "https://avatars3.githubusercontent.com/u/54761473?s=460&u=70ff584a841f0748305e405fe3db9eca5ddd2608&v=4",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn": "linkedin.com/in/nishu-rai-320852190/",
+        "github": "https://github.com/nishu91020",
+        "skills": ['C++','Git & Github'],
+        "description": "Joint Secretary OSS Club"
+    },
+  {
       "name":"Yashaswi Mailaru",
       "img":"https://avatars2.githubusercontent.com/u/68941273?s=460&v=4",
       "title":"Participant",
@@ -81,13 +104,93 @@ const participants = [
     },
     {
         "name": "Aman Singh",
-        "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeg",
+        "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeghttps://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but",
         "title": "Open Source Enthusiast",
         "year": "BE - 2023",
+        "linkedIn": "./#",
+        "github": "https://github.com/mayank-Kr",
+        "skills": ['Sneak'],
+        "description": "Student at AIT"
+    },
+    {
+        "name": "Amit Kumar Bhuyan",
+        "img": "https://avatars3.githubusercontent.com/u/45561556?s=400&u=2825ec9a971a75cd42e8c4a2dd85000d69e2a4ed&v=4",
+        "title": "ML",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/amit-bhuyan-9636aa124/",
+        "github": "https://github.com/bhuyanamit986",
+        "skills": ['Python', 'C++', "Machine Learning"],
+        "description": ". code"
+    },
+  {
+        "name": "Anjali Sharma",
+        "img": "https://media-exp1.licdn.com/dms/image/C5603AQHUwOPMsSJ_VA/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=RRf6FoRpNIv6vyP5_M1m7V6zQ7dqxMRJpbB6Z8zUEy0",
+        "title": "Participant",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/anjali-sharma-4825a4155/",
+        "github": "https://github.com/anjalee0299",
+        "skills": ['Python','SQL'],
+        "description": "Student at AIT"
+    },{
+
+        "name": "Amit Bhagat",
+        "img": "https://images.unsplash.com/photo-1518933165971-611dbc9c412d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+        "title": "Lets start opensource",
+        "year": "BE-2023",
+        "linkedIn": "https://www.linkedin.com/in/amit-bhagat-860341192/",
+        "github": "https://github.com/AmitBhagat3301",
+        "skills": ["a learner"],
+        "description": "Talk is cheap. Show me the code."
+},
+    {
+        "name": "Harshvardhan Singh Shekhawat",
+        "img": "https://media-exp1.licdn.com/dms/image/C5103AQEar1L5vXss8Q/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=m80bwU0Q2X_diOsdNsVKgSn3DRgCoUMHZm5C0vrhoQo",
+        "title": "Participant",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/harshvardhan-singh-shekhawat-65476a170/",
+        "github": "https://github.com/harshvardhan194",
+        "skills": ['SQL','Python'],
+        "description": "Student at AIT"
+    },
+  {
+        "name": "Mohit Saini",
+        "img": "https://avatars1.githubusercontent.com/u/61094186?s=460&u=4dbadae3eddb10851130da08f178761be278bc0c&v=4",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/mohit-saini-1906121a6/",
+        "github": "https://github.com/mskSaini01",
+        "skills": ['Problem Solving', 'ML Algorithms', 'C++', 'Python', 'Front-End Dev'],
+        "description": "AIT Student"
+    },
+    {
+        "name": "Harish Bajiya",
+        "img": "https://avatars2.githubusercontent.com/u/58135353?s=460&u=9909c0f062441abaaa86bc060dc8be622d3ff405&v=4",
+        "title": "Tech Enthusiast",
+        "year": "BE - 2024",
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
         "github": "https://github.com/aitoss",
-        "skills": ['Not afraid of learning new technologies'],
-        "description": ". code"
+        "skills": ['Flutter', 'Vue.js'],
+        "description": "Code never lets you down"
+    }, {
+        "name": "Shreya Dubey",
+        "img": "shreya_img.jpg",
+        "img": "https://avatars1.githubusercontent.com/u/42490656?s=400&v=4",
+        "title": "Participant",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/devansh9011",
+        "skills": ['C','C++','CP','python','Mathematics','HTML','CSS','JS'],
+        "description": "Student at AIT"
+    },
+      {
+        "name": "Ishan Awasthi",
+        "img": "#",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn": "#",
+        "github": "https://github.com/Thanksalot123",
+        "skills": ['basic web development','can make poisonous pasta'],
+        "description": "An AIT Student"
     },
     {
         "name": "Algebron",
@@ -116,8 +219,18 @@ const participants = [
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/shreya-dubey-18022001/",
         "github": "https://github.com/GOKU-Instinct",
-        "skills": ['C', 'C++' ,'Python', 'CP', 'Mathematics', 'Problem Solving'],
+        "skills": ['C', 'C++', 'Python', 'CP', 'Mathematics', 'Problem Solving'],
         "description": "Competitive Programmer"
+    },
+    {
+        "name": "Sunny Bhandari",
+        "img": "https://avatars2.githubusercontent.com/u/53352196?s=460&u=54844bbf6d7a6312ea02d4901fec3d7b4a89e1eb&v=4",
+        "title": "Participant",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/sunny-bhandari-7a2a96197/",
+        "github": "https://github.com/sunnybhandari02",
+        "skills": ['All Open Source Technologies'],
+        "description": "Student at Army Institute of Technology"
     },
     {
         "name": "Aman Thakur",
@@ -126,8 +239,8 @@ const participants = [
         "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/in/aman-thakur-47a75418b/",
         "github": "https://github.com/jhonsnow456",
-        "skills": ['Python', 'Nodejs' ,'Django'],
-        "description": "Member of AIT OSS Club"
+        "skills": ['Python', 'Nodejs', 'Django'],
+        "description": "Competive Progammer and Open Source Enthusiast"
     },
     {
         "name": "Arpit",
@@ -136,7 +249,7 @@ const participants = [
         "year": "BE - 2021",
         "linkedIn": "https://www.linkedin.com/in/arpit-kumar-mishra/",
         "github": "https://github.com/arkumish",
-        "skills": ['MERN Stack', 'Explorer','Thinker'],
+        "skills": ['MERN Stack', 'Explorer', 'Thinker'],
         "description": "For description, check Linkedin 😁"
     },
     {
@@ -146,7 +259,7 @@ const participants = [
         "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
         "github": "https://github.com/aitoss",
-        "skills": ['Python','Django','IoT'],
+        "skills": ['Python', 'Django', 'IoT'],
         "description": ". code"
     },
     {
@@ -190,6 +303,16 @@ const participants = [
         "description": "Open to Learn."
     },
     {
+        "name": "Robert Tranchida",
+        "img": "https://avatars2.githubusercontent.com/u/67932344?s=460&u=f3c7d230f7bf357feb341cca0b4dec3d21c2b409&v=4",
+        "title": "CyberSecurity",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/robert-tranchida-5a1aa0a4/",
+        "github": "https://github.com/budaoist",
+        "skills": ['PHP, MySQL, A+, ITF+'],
+        "description": "Recent Graduate seeking to advance his skills."
+ },
+    {
         "name": "Rohit Kumar",
         "img": "https://avatars3.githubusercontent.com/u/54764235?s=400&u=2e370122d903ce7073fd3419f33d43a602d83995&v=4",
         "title": "Open Source Enthusiast",
@@ -208,13 +331,62 @@ const participants = [
         "github": "https://github.com/cnarte",
         "skills": ['Tensorflow' ,'GCP', 'Flask','IBM-Qiskit'],
         "description": "Open to Learn."
+    },
+    {
+        "name": "DeOxYs",
+        "img": "https://avatars0.githubusercontent.com/u/56212417?s=460&amp;u=95a0155aade927a25bdc8d516d54c872a21ce1a0&amp;v=4",
+        "title": "Rookie",
+        "year": "SE 2020",
+        "linkedIn": "https://www.linkedin.com/in/saheel-kumar-47ba691b5/",
+        "github": "https://github.com/DeOxYs24",
+        "skills": ['Not afraid of learning new tech'],
+        "description": "A new recruit."
+    },
+    {
+        "name": "Meghaj Singh",
+        "img": "https://avatars0.githubusercontent.com/u/49283403?s=400&u=228bd9e514d69021dcae34d3d929c7b87381dbff&v=4",
+        "title": "Coping up with Tech!",
+        "year": "BE-2022",
+        "linkedIn" : "https://www.linkedin.com/in/meghaj-singh-545846167/",
+        'github': "https://github.com/memeghaj10",
+        "skills": ['C++','Python','NLP & NLTK','Web Development using MERN stack','Data Science'],
+        "description": "A young learner."
+    }, {
+        "name":"Sachin Choudhary",
+        "img":"https://avatars2.githubusercontent.com/u/54989437?s=460&u=b0a939329e8daa072469b228349c1e9927a29a30&v=4",
+        "title":"Noobie",
+        "year":"BE-2023",
+        "linkedIn":"https://www.linkedin.com/in/sachin-choudhary-7037381a9/",
+        "github":"https://github.com/sachin-611",
+        "skills":['C++','python'],
+        "description":"Student at AIT"
+    },
+    {
+        "name":"Anuranjan Pandey",
+        "img":"https://avatars0.githubusercontent.com/u/53137708?s=400&u=88f891101c0a4b62095e5b8733f7670ebd8ee73d&v=4",
+        "title":"Participant",
+        "year":"BE-2023",
+        "linkedIn":"https://www.linkedin.com/in/anuranjan-pandey-8b8623140/",
+        "github":"https://github.com/anuranjanpandey",
+        "skills":['C++', 'Python'],
+        "description":"Student at AIT"
+    },
+    {
+        "name": "Deepshikha Tripathi",
+        "img": "https://avatars2.githubusercontent.com/u/51395975?s=460&v=4",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "github": "https://github.com/Purgeme",
+        "skills": ['All Open Source Technologies', 'Game Development'],
+        "description": "A student game developer."
     }
+
 ]
 
 function loadParticipants() {
     participants.forEach((participant) => {
-        let listed='';
-        participant.skills.forEach((skill)=>{
+        let listed = '';
+        participant.skills.forEach((skill) => {
             listed += `<li>${skill}</li>`;
         })
         const card = `<div class="col-sm-12 col-md-6 col-lg-4 mt-3">
