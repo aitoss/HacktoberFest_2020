@@ -54,9 +54,8 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 
 - ## Updating your forked repository with that of the parent:
   - **📥Add master repo as upstream:** `git remote add upstream https://github.com/aitoss/HacktoberFest_2020.git`
-  - **📥Fetch the changes to the the forked repository:** `git fetch upstream`
-  - **📥Merge the fetched updates:** `git merge origin/master`
-  - **📤Push the updates the the online forked repository:** `git push origin master`
+  - **📥Fetch the changes to your local system:** `git pull upstream`
+  - **📤Push the updates to the online forked repository:** `git push origin master`
 
 # 👨‍💻Contributers/Participants
 + [Eppisai](http://www.github.com/eppisai) participated here.
