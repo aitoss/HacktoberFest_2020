@@ -157,7 +157,7 @@ function loadParticipants() {
         participant.skills.forEach((skill)=>{
             listed += `<li>${skill}</li>`;
         })
-        const card = `<div class="col-md-3 mt-3">
+        const card = `<div class="col-sm-12 col-md-6 col-lg-4 mt-3">
         <div class="card-container">
             <span class="pro">${participant.title}</span>
             <img
