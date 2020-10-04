@@ -38,7 +38,28 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['All Open Source Technologies'],
         "description": "A student driven Open Source Community at AIT, Pune."
+    },
+    {
+        "name": "Aman Singh",
+        "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeghttps://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but",
+        "title": "Open Source Enthusiast",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['Not afraid of learning new technologies'],
+        "description": ". code"
+    },
+    {
+        "name": "Anjali Sharma",
+        "img": "https://media-exp1.licdn.com/dms/image/C5603AQHUwOPMsSJ_VA/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=RRf6FoRpNIv6vyP5_M1m7V6zQ7dqxMRJpbB6Z8zUEy0",
+        "title": "Participant",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/anjali-sharma-4825a4155/",
+        "github": "https://github.com/anjalee0299",
+        "skills": ['Python','SQL'],
+        "description": "Student at AIT"
     }
+
 ]
 
 function loadParticipants() {
