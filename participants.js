@@ -70,64 +70,14 @@ const participants = [
         "description": ". code"
     },
     {
-        "name": "Himanshu Shekhar Padhi",
-        "img": "https://avatars1.githubusercontent.com/u/66739388?s=400&u=a345c499d263b7b4086dea7c3c5ec2ec1bb7518e&v=4",
-        "title": "New to OSS world",
-        "year": "BE - 2022",
-        "linkedIn": "https://www.linkedin.com/in/himanshu-shekhar-padhi-15365a1b3/",
-        "github": "https://github.com/boom786",
-        "skills": ['Angular', 'Nodejs' ,'Competitive programmer' , 'C++' , 'GCP'],
-        "description": "Enthusiast"
-    },
-  {
-      "name": "Shreya Dubey",
-        "img": "shreya_img.jpg",
-        "title": "Enthusiast",
-        "year": "BE - 2022",
-        "linkedIn": "https://www.linkedin.com/in/shreya-dubey-18022001/",
-        "github": "https://github.com/GOKU-Instinct",
-        "skills": ['C', 'C++' ,'Python', 'CP', 'Mathematics', 'Problem Solving'],
-        "description": "Competitive Programmer"
-    },
-    {
-        "name": "Aman Thakur",
-        "img": "https://avatars2.githubusercontent.com/u/54764701?s=400&u=5def19df00abf3b02e300874c05276203e4f5c8d&v=4",
-        "title": "Member of OSS",
-        "year": "BE - 2023",
-        "linkedIn": "https://www.linkedin.com/in/aman-thakur-47a75418b/",
-        "github": "https://github.com/jhonsnow456",
-        "skills": ['Python', 'Nodejs' ,'Django'],
-        "description": "Member of AIT OSS Club"
-    },
-    {
-        "name": "Arpit",
-        "img": "https://avatars3.githubusercontent.com/u/31367960?s=460&u=e9ca6daa43af40aa67f09cc0a2d9c9264e8d83bb&v=4",
-        "title": "An avid learner",
-        "year": "BE - 2021",
-        "linkedIn": "https://www.linkedin.com/in/arpit-kumar-mishra/",
-        "github": "https://github.com/arkumish",
-        "skills": ['MERN Stack', 'Explorer','Thinker'],
-        "description": "For description, check Linkedin 😁"
-    },
-    {
-        "name": "Aditya Tathagath",
-        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
-        "title": "OSS Member",
-        "year": "BE - 2023",
-        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
-        "github": "https://github.com/aitoss",
-        "skills": ['Python','Django','IoT'],
-        "description": ". code"
-    },
-    {
-        "name": "Maniraj Gautam",
-        "img": "https://avatars2.githubusercontent.com/u/26689017?s=400&u=3bd85e94d14b02eeba52b850732efd118dcf713e&v=4",
-        "title": "Open Source Enthusiast",
-        "year": "BCA - 2022",
-        "linkedIn": "https://www.linkedin.com/in/manirajgautam/",
-        "github": "https://github.com/Lucifermaniraj/",
-        "skills": ['All Open Source Technologies'],
-        "description": "A student "
+        "name":"Sachin Choudhary",
+        "img":"https://avatars2.githubusercontent.com/u/54989437?s=460&u=b0a939329e8daa072469b228349c1e9927a29a30&v=4",
+        "title":"Noobie",
+        "year":"BE-2023",
+        "linkedIn":"https://www.linkedin.com/in/sachin-choudhary-7037381a9/",
+        "github":"https://github.com/sachin-611",
+        "skills":['C++','python'],
+        "description":"Student at AIT"
     },
     {
         "name": "Ayush Pawar",
@@ -138,6 +88,26 @@ const participants = [
         "github": "https://github.com/swift1719",
         "skills": ['C/C++' ,'Java', 'MERN stack','Golang','CP'],
         "description": "Open to Learn."
+    },
+    {
+        "name": "Rohit Kumar",
+        "img": "https://avatars3.githubusercontent.com/u/54764235?s=400&u=2e370122d903ce7073fd3419f33d43a602d83995&v=4",
+        "title": "Open Source Enthusiast",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/rohitkumar-yadav/",
+        "github": "https://github.com/The-Fuse",
+        "skills": ['C++' ,'Android development'],
+        "description": "Breaking the chain through the fuse"
+    },
+    {
+        "name": "Ankit Kumar",
+        "img": "https://avatars0.githubusercontent.com/u/56212417?s=460&amp;u=95a0155aade927a25bdc8d516d54c872a21ce1a0&amp;v=4",
+        "title": "OSS club Member",
+        "year": "SE 2020",
+        "linkedIn": "https://www.linkedin.com/in/ankit-kumar-706243125/",
+        "github": "https://github.com/cnarte",
+        "skills": ['Tensorflow' ,'GCP', 'Flask','IBM-Qiskit'],
+        "description": "Open to Learn."
     }
 ]
 
@@ -147,7 +117,7 @@ function loadParticipants() {
         participant.skills.forEach((skill)=>{
             listed += `<li>${skill}</li>`;
         })
-        const card = `<div class="col-md-3 mt-3">
+        const card = `<div class="col-sm-12 col-md-6 col-lg-4 mt-3">
         <div class="card-container">
             <span class="pro">${participant.title}</span>
             <img
