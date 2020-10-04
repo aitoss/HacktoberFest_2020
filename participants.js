@@ -111,7 +111,7 @@ const participants = [
     },
     {
       "name": "Shreya Dubey",
-        "img": "shreya_img.jpg",
+        "img": "https://avatars0.githubusercontent.com/u/43314873?s=460&u=85f5e0623746b3e6260380a874c38541571e69d6&v=4",
         "title": "Enthusiast",
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/shreya-dubey-18022001/",
