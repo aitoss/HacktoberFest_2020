@@ -70,6 +70,16 @@ const participants = [
         "description": "A student driven Open Source Community at AIT, Pune."
     },
     {
+      "name":"Yashaswi Mailaru",
+      "img":"https://avatars2.githubusercontent.com/u/68941273?s=460&v=4",
+      "title":"Participant",
+      "year":"BE-2023",
+      "linkedIn":"https://www.linkedin.com/in/yashaswi-mailaru-7b9169190/",
+      "github":"https://github.com/Nullcoder9",
+      "skills":['C++' , 'Nodejs'],
+      "description":"AIT STUDENT"
+    },
+    {
         "name": "Aman Singh",
         "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeg",
         "title": "Open Source Enthusiast",
