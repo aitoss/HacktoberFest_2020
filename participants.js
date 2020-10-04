@@ -141,7 +141,7 @@ const participants = [
     },
     {
         "name": "Rohit Kumar",
-        "img": "https://avatars0.githubusercontent.com/u/55341566?s=460&u=0508e5f4b2f2260826778add4a8ca8c185576a70&v=4",
+        "img": "https://avatars3.githubusercontent.com/u/54764235?s=400&u=2e370122d903ce7073fd3419f33d43a602d83995&v=4",
         "title": "Open Source Enthusiast",
         "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/in/rohitkumar-yadav/",
