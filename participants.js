@@ -50,7 +50,17 @@ const participants = [
         "description": ". code"
     },
     {
-        "name": "Shreya Dubey",
+        "name": "Himanshu Shekhar Padhi",
+        "img": "https://avatars1.githubusercontent.com/u/66739388?s=400&u=a345c499d263b7b4086dea7c3c5ec2ec1bb7518e&v=4",
+        "title": "New to OSS world",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/himanshu-shekhar-padhi-15365a1b3/",
+        "github": "https://github.com/boom786",
+        "skills": ['Angular', 'Nodejs' ,'Competitive programmer' , 'C++' , 'GCP'],
+        "description": "Enthusiast"
+    },
+  {
+      "name": "Shreya Dubey",
         "img": "shreya_img.jpg",
         "title": "Enthusiast",
         "year": "BE - 2022",
@@ -108,6 +118,16 @@ const participants = [
         "github": "https://github.com/Lucifermaniraj/",
         "skills": ['All Open Source Technologies'],
         "description": "A student "
+    },
+    {
+        "name": "Ayush Pawar",
+        "img": "https://avatars0.githubusercontent.com/u/55341566?s=460&u=0508e5f4b2f2260826778add4a8ca8c185576a70&v=4",
+        "title": "Enthusiast",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/ayush-p-959701111/",
+        "github": "https://github.com/swift1719",
+        "skills": ['C/C++' ,'Java', 'MERN stack','Golang','CP'],
+        "description": "Open to Learn."
     }
 ]
 
