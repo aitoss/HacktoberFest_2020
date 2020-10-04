@@ -48,6 +48,16 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['Not afraid of learning new technologies'],
         "description": ". code"
+    },
+    {
+        "name": "Harshvardhan Singh Shekhawat",
+        "img": "https://media-exp1.licdn.com/dms/image/C5103AQEar1L5vXss8Q/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=m80bwU0Q2X_diOsdNsVKgSn3DRgCoUMHZm5C0vrhoQo",
+        "title": "Participant",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/harshvardhan-singh-shekhawat-65476a170/",
+        "github": "https://github.com/harshvardhan194",
+        "skills": ['SQL','Python'],
+        "description": "Student at AIT"
     }
 
 ]
