@@ -293,6 +293,16 @@ const participants = [
         "description": "Open to Learn."
     },
     {
+        "name": "Robert Tranchida",
+        "img": "https://avatars2.githubusercontent.com/u/67932344?s=460&u=f3c7d230f7bf357feb341cca0b4dec3d21c2b409&v=4",
+        "title": "CyberSecurity",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/robert-tranchida-5a1aa0a4/",
+        "github": "https://github.com/budaoist",
+        "skills": ['PHP, MySQL, A+, ITF+'],
+        "description": "Recent Graduate seeking to advance his skills."
+ },
+    {
         "name": "Rohit Kumar",
         "img": "https://avatars3.githubusercontent.com/u/54764235?s=400&u=2e370122d903ce7073fd3419f33d43a602d83995&v=4",
         "title": "Open Source Enthusiast",
