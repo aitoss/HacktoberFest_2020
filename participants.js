@@ -90,6 +90,16 @@ const participants = [
         "description": ". code"
     },
     {
+        "name": "Algebron",
+        "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeg",
+        "title": "Open Source Contrinutor",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/algebron/",
+        "github": "https://github.com/algebron",
+        "skills": ['Web development','python development'],
+        "description": ". code"
+    },
+    {
         "name": "Himanshu Shekhar Padhi",
         "img": "https://avatars1.githubusercontent.com/u/66739388?s=400&u=a345c499d263b7b4086dea7c3c5ec2ec1bb7518e&v=4",
         "title": "New to OSS world",
