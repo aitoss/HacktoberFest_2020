@@ -138,8 +138,6 @@ const participants = [
         "github": "https://github.com/jhonsnow456",
         "skills": ['Python', 'Nodejs' ,'Django', 'C++'],
         "description": "Competive Progammer and Open Source Enthusiast"
-        "skills": ['Python', 'Nodejs' ,'Django'],
-        "description": "Member of AIT OSS Club"
     },
     {
         "name": "Arpit",
