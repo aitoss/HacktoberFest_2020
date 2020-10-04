@@ -58,15 +58,15 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
   - **📤Push the updates to the online forked repository:** `git push origin master`
 
 # 👨‍💻Contributers/Participants
-+ [Eppisai](http://www.github.com/eppisai) participated here.
 + [Satya](http://www.github.com/satya9500) participated here.
 + [Deepshikha](https://github.com/dipsXD) participated here.
 + [Akshay Sharma](http://www.github.com/AkshaySharma008) participated here.
 + [Shuvam](http://www.github.com/shuvamk) participated here.
++ [Priya](http://www.github.com/priya2668135) participated here.
++ [Pratik Sunil Phadtare](http://www.github.com/Pratik282001) participated here.
 + [N Pawan Kumar](https://github.com/npawankr1) participated here.
 + [Sachin Choudhary](http://www.github.com/sachin-611) participated here
 + [yashaswi](https://www.github.com/Nullcoder9) participated here.
-+ [Satya Prakash](https://github.com/Satya-here) participated here.
 + [Sri Vaishnav](http://www.github.com/sri-vaishnav) participated here.
 + [Ankit Kumar](http://www.github.com/cnarte) participated here.
 + [Shubham](http://www.github.com/shubham7298) participated here.
@@ -81,6 +81,10 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Satya Prakash](https://github.com/Satya-here) participated here.
 + [Arpit](https://github.com/arkumish) participated here.
 + [Aditya Tathagath](https://github.com/adityatathagath) participated here.
++ [Aditya Tathagath](https://github.com/adityatathagath) participated here.
 + [Maniraj Gautam](https://github.com/Lucifermaniraj) participated here.
++ [kp_11](https://github.com/gitkp11) participated here.
++ [Thunder._.moon](https://github.com/himani-singh-8899) participated here.
 + [DeOxYs](https://github.com/DeOxYs24) participated here.
 + [The-Fuse](https://github.com/The-Fuse) participated here.
++ [Eppisai](http://www.github.com/eppisai) participated here.

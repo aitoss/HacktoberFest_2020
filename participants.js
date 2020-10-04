@@ -32,12 +32,12 @@ const participants = [
     {
         "name": "Deepshikha Tripathi",
         "img": "https://avatars1.githubusercontent.com/u/47073154?s=400&v=4",
-        "title": "OSS Sec",
+        "title": "Participant",
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
         "github": "https://github.com/aitoss",
-        "skills": ['All Open Source Technologies'],
-        "description": "A student driven Open Source Community at AIT, Pune."
+        "skills": ['Programming'],
+        "description": "OSS Secretary"
     },
     {
         "name": "N Pawan Kumar",
@@ -70,6 +70,16 @@ const participants = [
         "description": "A student driven Open Source Community at AIT, Pune."
     },
     {
+      "name":"Yashaswi Mailaru",
+      "img":"https://avatars2.githubusercontent.com/u/68941273?s=460&v=4",
+      "title":"Participant",
+      "year":"BE-2023",
+      "linkedIn":"https://www.linkedin.com/in/yashaswi-mailaru-7b9169190/",
+      "github":"https://github.com/Nullcoder9",
+      "skills":['C++' , 'Nodejs'],
+      "description":"AIT STUDENT"
+    },
+    {
         "name": "Aman Singh",
         "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeg",
         "title": "Open Source Enthusiast",
@@ -77,6 +87,16 @@ const participants = [
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
         "github": "https://github.com/aitoss",
         "skills": ['Not afraid of learning new technologies'],
+        "description": ". code"
+    },
+    {
+        "name": "Algebron",
+        "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeg",
+        "title": "Open Source Contrinutor",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/algebron/",
+        "github": "https://github.com/algebron",
+        "skills": ['Web development','python development'],
         "description": ". code"
     },
     {
@@ -91,7 +111,7 @@ const participants = [
     },
     {
       "name": "Shreya Dubey",
-        "img": "shreya_img.jpg",
+        "img": "https://avatars0.githubusercontent.com/u/43314873?s=460&u=85f5e0623746b3e6260380a874c38541571e69d6&v=4",
         "title": "Enthusiast",
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/shreya-dubey-18022001/",
@@ -138,6 +158,16 @@ const participants = [
         "github": "https://github.com/Lucifermaniraj/",
         "skills": ['All Open Source Technologies'],
         "description": "A student "
+    },
+    {
+        "name": "gitkp11",
+        "img": "https://avatars1.githubusercontent.com/u/47073116?s=400&u=ebfa6fd8b2545ee9f508534be5285eff3e090f5c&v=4",
+        "title": "Participant",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/gitkp11",
+        "skills": ['C++', 'Python', 'Django'],
+        "description": "Enthusiastic to learn new tech."
     },
     {
         "name":"Sachin Choudhary",
