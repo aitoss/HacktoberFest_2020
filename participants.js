@@ -140,6 +140,16 @@ const participants = [
         "description": "A student "
     },
     {
+        "name":"Sachin Choudhary",
+        "img":"https://avatars2.githubusercontent.com/u/54989437?s=460&u=b0a939329e8daa072469b228349c1e9927a29a30&v=4",
+        "title":"Noobie",
+        "year":"BE-2023",
+        "linkedIn":"https://www.linkedin.com/in/sachin-choudhary-7037381a9/",
+        "github":"https://github.com/sachin-611",
+        "skills":['C++','python'],
+        "description":"Student at AIT"
+    },
+    {
         "name": "Ayush Pawar",
         "img": "https://avatars0.githubusercontent.com/u/55341566?s=460&u=0508e5f4b2f2260826778add4a8ca8c185576a70&v=4",
         "title": "Enthusiast",
@@ -147,6 +157,26 @@ const participants = [
         "linkedIn": "https://www.linkedin.com/in/ayush-p-959701111/",
         "github": "https://github.com/swift1719",
         "skills": ['C/C++' ,'Java', 'MERN stack','Golang','CP'],
+        "description": "Open to Learn."
+    },
+    {
+        "name": "Rohit Kumar",
+        "img": "https://avatars3.githubusercontent.com/u/54764235?s=400&u=2e370122d903ce7073fd3419f33d43a602d83995&v=4",
+        "title": "Open Source Enthusiast",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/rohitkumar-yadav/",
+        "github": "https://github.com/The-Fuse",
+        "skills": ['C++' ,'Android development'],
+        "description": "Breaking the chain through the fuse"
+    },
+    {
+        "name": "Ankit Kumar",
+        "img": "https://avatars0.githubusercontent.com/u/56212417?s=460&amp;u=95a0155aade927a25bdc8d516d54c872a21ce1a0&amp;v=4",
+        "title": "OSS club Member",
+        "year": "SE 2020",
+        "linkedIn": "https://www.linkedin.com/in/ankit-kumar-706243125/",
+        "github": "https://github.com/cnarte",
+        "skills": ['Tensorflow' ,'GCP', 'Flask','IBM-Qiskit'],
         "description": "Open to Learn."
     }
 ]
@@ -157,7 +187,7 @@ function loadParticipants() {
         participant.skills.forEach((skill)=>{
             listed += `<li>${skill}</li>`;
         })
-        const card = `<div class="col-md-3 mt-3">
+        const card = `<div class="col-sm-12 col-md-6 col-lg-4 mt-3">
         <div class="card-container">
             <span class="pro">${participant.title}</span>
             <img
