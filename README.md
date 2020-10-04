@@ -62,6 +62,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Deepshikha](https://github.com/dipsXD) participated here.
 + [Akshay Sharma](http://www.github.com/AkshaySharma008) participated here.
 + [Shuvam](http://www.github.com/shuvamk) participated here.
++ [Digvijay Singh](https://github.com/dsprajput) participated here.
 + [Akash Saxena](https://github.com/Akashsaxena2308) participated here.
 + [Yogesh Kumar](https://github.com/yogeshok) participated here.
 + [Nishu Rai](https://github.com/nishu91020) participated here.
