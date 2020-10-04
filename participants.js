@@ -351,6 +351,7 @@ const participants = [
         "skills": ['All Open Source Technologies', 'Game Development'],
         "description": "A student game developer."
     }
+
 ]
 
 function loadParticipants() {
