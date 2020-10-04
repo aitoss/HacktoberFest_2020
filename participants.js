@@ -160,6 +160,16 @@ const participants = [
         "description": "A student "
     },
     {
+        "name": "gitkp11",
+        "img": "https://avatars1.githubusercontent.com/u/47073116?s=400&u=ebfa6fd8b2545ee9f508534be5285eff3e090f5c&v=4",
+        "title": "Participant",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/gitkp11",
+        "skills": ['C++', 'Python', 'Django'],
+        "description": "Enthusiastic to learn new tech."
+    },
+    {
         "name":"Sachin Choudhary",
         "img":"https://avatars2.githubusercontent.com/u/54989437?s=460&u=b0a939329e8daa072469b228349c1e9927a29a30&v=4",
         "title":"Noobie",
