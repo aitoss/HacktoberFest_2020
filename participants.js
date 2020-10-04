@@ -208,6 +208,16 @@ const participants = [
         "github": "https://github.com/cnarte",
         "skills": ['Tensorflow' ,'GCP', 'Flask','IBM-Qiskit'],
         "description": "Open to Learn."
+    },
+    {
+        "name": "DeOxYs",
+        "img": "https://avatars0.githubusercontent.com/u/56212417?s=460&amp;u=95a0155aade927a25bdc8d516d54c872a21ce1a0&amp;v=4",
+        "title": "Rookie",
+        "year": "SE 2020",
+        "linkedIn": "https://www.linkedin.com/in/saheel-kumar-47ba691b5/",
+        "github": "https://github.com/DeOxYs24",
+        "skills": ['Not afraid of learning new tech'],
+        "description": "A new recruit."
     }
 ]
 
