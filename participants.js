@@ -100,6 +100,16 @@ const participants = [
         "description": ". code"
     },
     {
+        "name": "Amit Bhagat",
+        "img": "https://images.unsplash.com/photo-1518933165971-611dbc9c412d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+        "title": "Lets start Opensource",
+        "year": "BE-2023",
+        "linkedIn": "https://www.linkedin.com/in/amit-bhagat-860341192/",
+        "github": "https://github.com/AmitBhagat3301",
+        "skills": ["a learner"],
+        "description": "Talk is cheap. Show me the code."
+},
+    {
         "name": "Harshvardhan Singh Shekhawat",
         "img": "https://media-exp1.licdn.com/dms/image/C5103AQEar1L5vXss8Q/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=m80bwU0Q2X_diOsdNsVKgSn3DRgCoUMHZm5C0vrhoQo",
         "title": "Participant",
