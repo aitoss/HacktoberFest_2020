@@ -40,6 +40,16 @@ const participants = [
         "description": "OSS Secretary"
     },
     {
+        "name": "Shailesh Kumar Sahu",
+        "img": "https://user-images.githubusercontent.com/36515927/57946981-4ae29b00-78fb-11e9-9159-abe920b00be5.jpg",
+        "title": "OSS club mentor",
+        "year": "BE - 2021",
+        "linkedIn": "https://www.linkedin.com/in/shellkore",
+        "github": "https://github.com/shellkore",
+        "skills": ['Python','Flask/FastAPI/Django','openCV','AWS','shell'],
+        "description": "Former OSS Management Head"
+    },
+    {
         "name": "N Pawan Kumar",
         "img": "https://avatars1.githubusercontent.com/u/58778029?s=460&u=90bda2297fc6557c8bd72171d42f0dae879931f9&v=4",
         "title": "New to OSS",
