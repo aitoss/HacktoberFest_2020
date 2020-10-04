@@ -228,7 +228,7 @@ const participants = [
         "github": "https://github.com/DeOxYs24",
         "skills": ['Not afraid of learning new tech'],
         "description": "A new recruit."
-    }
+    },
 
     {
         "name": "Meghaj Singh",
