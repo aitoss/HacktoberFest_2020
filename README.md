@@ -78,3 +78,4 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Satya Prakash](https://github.com/Satya-here) participated here.
 + [Arpit](https://github.com/arkumish) participated here.
 + [Aditya Tathagath](https://github.com/adityatathagath) participated here.
++ [The-Fuse](https://github.com/The-Fuse) participated here.

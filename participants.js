@@ -140,6 +140,16 @@ const participants = [
         "description": "Open to Learn."
     },
     {
+        "name": "Rohit Kumar",
+        "img": "https://avatars3.githubusercontent.com/u/54764235?s=400&u=2e370122d903ce7073fd3419f33d43a602d83995&v=4",
+        "title": "Open Source Enthusiast",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/rohitkumar-yadav/",
+        "github": "https://github.com/The-Fuse",
+        "skills": ['C++' ,'Android development'],
+        "description": "Breaking the chain through the fuse"
+    },
+    {
         "name": "Ankit Kumar",
         "img": "https://avatars0.githubusercontent.com/u/56212417?s=460&amp;u=95a0155aade927a25bdc8d516d54c872a21ce1a0&amp;v=4",
         "title": "OSS club Member",
