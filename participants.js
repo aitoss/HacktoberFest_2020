@@ -138,6 +138,16 @@ const participants = [
         "github": "https://github.com/swift1719",
         "skills": ['C/C++' ,'Java', 'MERN stack','Golang','CP'],
         "description": "Open to Learn."
+    },
+    {
+        "name": "Ankit Kumar",
+        "img": "https://avatars0.githubusercontent.com/u/56212417?s=460&amp;u=95a0155aade927a25bdc8d516d54c872a21ce1a0&amp;v=4",
+        "title": "OSS club Member",
+        "year": "SE 2020",
+        "linkedIn": "https://www.linkedin.com/in/ankit-kumar-706243125/",
+        "github": "https://github.com/cnarte",
+        "skills": ['Tensorflow' ,'GCP', 'Flask','IBM-Qiskit'],
+        "description": "Open to Learn."
     }
 ]
 
