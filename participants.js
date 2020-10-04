@@ -360,7 +360,7 @@ const participants = [
         "github":"https://github.com/anuranjanpandey",
         "skills":['C++', 'Python'],
         "description":"Student at AIT"
-    }
+    },
     {
         "name": "Deepshikha Tripathi",
         "img": "https://avatars2.githubusercontent.com/u/51395975?s=460&v=4",
