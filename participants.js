@@ -70,6 +70,9 @@ const participants = [
         "description": "A student driven Open Source Community at AIT, Pune."
     },
     {
+        "name": "Mayank Kumar",
+        "img": "https://drive.google.com/file/d/1PG2h6PB0G9mm4SYoiE2kwLBwNeKXOkk7/view?usp=sharing",
+        "title": "Participant",
         "name": "Nishu Rai",
         "img": "https://avatars3.githubusercontent.com/u/54761473?s=460&u=70ff584a841f0748305e405fe3db9eca5ddd2608&v=4",
         "title": "Participant",
@@ -94,10 +97,10 @@ const participants = [
         "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeghttps://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but",
         "title": "Open Source Enthusiast",
         "year": "BE - 2023",
-        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
-        "github": "https://github.com/aitoss",
-        "skills": ['Not afraid of learning new technologies'],
-        "description": ". code"
+        "linkedIn": "./#",
+        "github": "https://github.com/mayank-Kr",
+        "skills": ['Sneak'],
+        "description": "Student at AIT"
     },
     {
         "name": "Amit Kumar Bhuyan",
