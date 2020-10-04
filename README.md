@@ -36,8 +36,8 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 - ## The Geek's way (Using Bash Commands):
 
    - **🍴Fork the repository:** `Look for the 'Fork' button in the repository pages`
-
-   - **💕Clone the repository:** `git clone https://github.com/YOUR_GITHUB_USER_NAME/HacktoberFes`
+   
+   - **💕Clone the repository:** `git clone https://github.com/YOUR_GITHUB_USER_NAME/HacktoberFest`
 
    - **😎Code Blooded:**  `Make changes to the project`
 
@@ -54,16 +54,40 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 
 - ## Updating your forked repository with that of the parent:
   - **📥Add master repo as upstream:** `git remote add upstream https://github.com/aitoss/HacktoberFest_2020.git`
-  - **📥Fetch the changes to the the forked repository:** `git fetch upstream`
-  - **📥Merge the fetched updates:** `git merge origin/master`
-  - **📤Push the updates the the online forked repository:** `git push origin master`
+  - **📥Fetch the changes to your local system:** `git pull upstream`
+  - **📤Push the updates to the online forked repository:** `git push origin master`
 
 # 👨‍💻Contributers/Participants
-+ [Eppisai](http://www.github.com/eppisai) participated here.
 + [Satya](http://www.github.com/satya9500) participated here.
 + [Deepshikha](https://github.com/dipsXD) participated here.
 + [Akshay Sharma](http://www.github.com/AkshaySharma008) participated here.
 + [Shuvam](http://www.github.com/shuvamk) participated here.
 + [Ishan](https://github.com/thanksalot123) participated here.
++ [Priya](http://www.github.com/priya2668135) participated here.
++ [Pratik Sunil Phadtare](http://www.github.com/Pratik282001) participated here.
++ [N Pawan Kumar](https://github.com/npawankr1) participated here.
++ [Sachin Choudhary](http://www.github.com/sachin-611) participated here
++ [yashaswi](https://www.github.com/Nullcoder9) participated here.
++ [Sri Vaishnav](http://www.github.com/sri-vaishnav) participated here.
++ [Ankit Kumar](http://www.github.com/cnarte) participated here.
++ [Shubham](http://www.github.com/shubham7298) participated here.
++ [Algebron](http://www.github.com/algebron) participated
++ [Ayush Pawar](https://github.com/swift1719) participated here.
++ [Himanshu Shekhar Padhi](http://www.github.com/boom786) participated here.
++ [Death Rulers](http://www.github.com/DeathRulers) participated here.
++ [Khiladi](https://github.com/Khiladi2020/) participated here.
++ [Shreya Dubey](https://github.com/GOKU-Instinct) participated here.
++ [Aman Thakur](https://github.com/jhonsnow456) participated here.
 + [yashaswi](https://www.github.com/Nullcoder9) participated here.
 + [Satya Prakash](https://github.com/Satya-here) participated here.
++ [Arpit](https://github.com/arkumish) participated here.
++ [Aditya Tathagath](https://github.com/adityatathagath) participated here.
++ [Aditya Tathagath](https://github.com/adityatathagath) participated here.
++ [Maniraj Gautam](https://github.com/Lucifermaniraj) participated here.
++ [Govind Prasad Sharma](https://github.com/Gopu03GPS) participated here.
++ [kp_11](https://github.com/gitkp11) participated here.
++ [Thunder._.moon](https://github.com/himani-singh-8899) participated here.
++ [DeOxYs](https://github.com/DeOxYs24) participated here.
++ [The-Fuse](https://github.com/The-Fuse) participated here.
++ [Eppisai](http://www.github.com/eppisai) participated here.
++ [Saheel](https://github.com/Saheelkumar2410) participated here.
