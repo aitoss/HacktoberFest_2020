@@ -40,6 +40,26 @@ const participants = [
         "description": "A student driven Open Source Community at AIT, Pune."
     },
     {
+        "name": "Sri Vaishnav",
+        "img": "https://scontent.fhyd10-1.fna.fbcdn.net/v/t1.0-9/71271545_760268247727477_8001833249963769856_o.jpg?_nc_cat=101&_nc_sid=174925&_nc_ohc=4HkkLbkxEuwAX8WaoKp&_nc_ht=scontent.fhyd10-1.fna&oh=16f860e42d2fd6c1c06d47bb7cbc4381&oe=5F9F90D2",
+        "title": "Student",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/sri-vaishnav-vutukuri-3220ab192/",
+        "github": "https://github.com/sri-vaishnav",
+        "skills": ['Python','Php','Android Studio'],
+        "description": "A student intreseted in developing softwares at AIT, Pune."
+    },
+    {
+        "name": "Akash Saxena",
+        "img": "https://avatars3.githubusercontent.com/u/54790554?s=60&v=4",
+        "title": "OSS Jt Sec",
+        "year": "SE - 2023",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['ReactJs','Bootstrap','JS','HTML','CS'],
+        "description": "A student driven Open Source Community at AIT, Pune."
+    },
+    {
         "name": "Aman Singh",
         "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeg",
         "title": "Open Source Enthusiast",
