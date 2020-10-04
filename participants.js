@@ -100,6 +100,16 @@ const participants = [
         "description": ". code"
     },
     {
+        "name": "Amit Kumar Bhuyan",
+        "img": "https://avatars3.githubusercontent.com/u/45561556?s=400&u=2825ec9a971a75cd42e8c4a2dd85000d69e2a4ed&v=4",
+        "title": "ML",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/amit-bhuyan-9636aa124/",
+        "github": "https://github.com/bhuyanamit986",
+        "skills": ['Python', 'C++', "Machine Learning"],
+        "description": ". code"
+    },
+  {
         "name": "Anjali Sharma",
         "img": "https://media-exp1.licdn.com/dms/image/C5603AQHUwOPMsSJ_VA/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=RRf6FoRpNIv6vyP5_M1m7V6zQ7dqxMRJpbB6Z8zUEy0",
         "title": "Participant",
