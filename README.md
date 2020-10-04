@@ -1,4 +1,4 @@
-# HacktoberFest_2020
+  # HacktoberFest_2020
 https://aitoss.github.io/HacktoberFest_2020/
 
 # [HacktoberFest](https://hacktoberfest.digitalocean.com/)
@@ -36,8 +36,8 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 - ## The Geek's way (Using Bash Commands):
 
    - **🍴Fork the repository:** `Look for the 'Fork' button in the repository pages`
-
-   - **💕Clone the repository:** `git clone https://github.com/YOUR_GITHUB_USER_NAME/HacktoberFes`
+   
+   - **💕Clone the repository:** `git clone https://github.com/YOUR_GITHUB_USER_NAME/HacktoberFest`
 
    - **😎Code Blooded:**  `Make changes to the project`
 
@@ -65,5 +65,16 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Akshay Sharma](http://www.github.com/AkshaySharma008) participated here.
 + [Shuvam](http://www.github.com/shuvamk) participated here.
 + [Sri Vaishnav](http://www.github.com/sri-vaishnav) participated here.
++ [Ankit Kumar](http://www.github.com/cnarte) participated here.
++ [Shubham](http://www.github.com/shubham7298) participated here.
++ [Algebron](http://www.github.com/algebron) participated
++ [Ayush Pawar](https://github.com/swift1719) participated here.
++ [Himanshu Shekhar Padhi](http://www.github.com/boom786) participated here.
++ [Death Rulers](http://www.github.com/DeathRulers) participated here.
++ [Khiladi](https://github.com/Khiladi2020/) participated here.
++ [Shreya Dubey](https://github.com/GOKU-Instinct) participated here.
++ [Aman Thakur](https://github.com/jhonsnow456) participated here.
 + [yashaswi](https://www.github.com/Nullcoder9) participated here.
 + [Satya Prakash](https://github.com/Satya-here) participated here.
++ [Arpit](https://github.com/arkumish) participated here.
++ [Aditya Tathagath](https://github.com/adityatathagath) participated here.
