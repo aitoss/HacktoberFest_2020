@@ -148,6 +148,16 @@ const participants = [
         "github": "https://github.com/The-Fuse",
         "skills": ['C++' ,'Android development'],
         "description": "Breaking the chain through the fuse"
+    },
+    {
+        "name": "Ankit Kumar",
+        "img": "https://avatars0.githubusercontent.com/u/56212417?s=460&amp;u=95a0155aade927a25bdc8d516d54c872a21ce1a0&amp;v=4",
+        "title": "OSS club Member",
+        "year": "SE 2020",
+        "linkedIn": "https://www.linkedin.com/in/ankit-kumar-706243125/",
+        "github": "https://github.com/cnarte",
+        "skills": ['Tensorflow' ,'GCP', 'Flask','IBM-Qiskit'],
+        "description": "Open to Learn."
     }
 ]
 
@@ -157,7 +167,7 @@ function loadParticipants() {
         participant.skills.forEach((skill)=>{
             listed += `<li>${skill}</li>`;
         })
-        const card = `<div class="col-md-3 mt-3">
+        const card = `<div class="col-sm-12 col-md-6 col-lg-4 mt-3">
         <div class="card-container">
             <span class="pro">${participant.title}</span>
             <img

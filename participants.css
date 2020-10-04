@@ -15,9 +15,6 @@ body {
     background: url(https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=1980x1080);
 }
 
-.outer-div {
-    margin-left: 2% !important;
-}
 
 h3 {
     margin: 10px 0;
@@ -39,9 +36,9 @@ p {
     box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
     color: #b3b8cd;
     position: relative;
-    width: 350px;
-    max-width: 100%;
+    width: 100%;
     text-align: center;
+    padding-top: 40px;
 }
 
 .card-container .pro {
@@ -50,8 +47,8 @@ p {
     font-weight: bold;
     padding: 3px 7px;
     position: absolute;
-    top: 30px;
-    left: 10px;
+    top: 15px;
+    left: 15px;
 
 }
 
@@ -61,7 +58,8 @@ p {
 }
 
 .round {
-    max-height: 150px;
+    height: 150px;
+    width: 150px;
 }
 
 button.primary {
