@@ -184,7 +184,7 @@ const participants = [
     }, 
     {
         "name": "Ishan Awasthi",
-        "img": "#",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "Participant",
         "year": "BE - 2023",
         "linkedIn": "#",
