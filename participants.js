@@ -389,7 +389,7 @@ const participants = [
         "github": "https://github.com/PuneetSharma008",
         "skills": ['All Open Source Technologies'],
         "description": "A learner."
-    {
+    }, {
         "name": "Devansh Sharma",
         "img": "https://avatars1.githubusercontent.com/u/42490656?s=400&v=4",
         "title": "Participant",
