@@ -341,6 +341,17 @@ const participants = [
         "skills": ['All Open Source Technologies', 'Game Development'],
         "description": "A student game developer."
     }
+	
+    {
+        "name": "Vikas Choudhary",
+        "img": "https://media-exp1.licdn.com/dms/image/C5103AQErPOc_YJReZw/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=gjVjImjKQ8wCC-EsMFKlvJFocVxurGudEOBoz0d25Mo",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn":"https://www.linkedin.com/in/vikas-choudhary-3b286819b/",
+        "github": "https://github.com/vikaschoudhary22",
+        "skills": ['Cyber security and ethical hacking', 'Game Development'],
+        "description": "A student Enthusiastic to learn about space"
+    }
 ]
 
 function loadParticipants() {
