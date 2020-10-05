@@ -7,7 +7,9 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 - **Hacktoberfest is open to everyone in our global community!**
 
-- **Pull requests can be made in any GitHub-hosted repositories/projects.**
+- **Pull requests can be made in any GitHub-hosted repositories/projects which are under Topic Hacktoberfest.**
+
+- **For your Pull Request to be counted it should be labelled as hacktoberfest-accepted or should be merged to the repo.**
 
 - **Sign up anytime between October 1 and October 31.**
 
