@@ -379,6 +379,15 @@ const participants = [
         "github": "https://github.com/Purgeme",
         "skills": ['All Open Source Technologies', 'Game Development'],
         "description": "A student game developer."
+    },
+      {
+        "name": "Puneet Sharma",
+        "img": "https://avatars3.githubusercontent.com/u/72249562?s=400&v=4",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "github": "https://github.com/PuneetSharma008",
+        "skills": ['All Open Source Technologies'],
+        "description": "A learner."
     }
 
 ]
