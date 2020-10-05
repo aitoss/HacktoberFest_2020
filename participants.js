@@ -411,7 +411,7 @@ const participants = [
     {
         
         "name":"Deepak Barnwal",
-        "img":"",
+        "img":"https://avatars3.githubusercontent.com/u/56596211?s=460&u=273786d051a691b98766bab9cfa3cc34a99b589a&v=4",
         "title":"Participant",
         "year":"BE-2023",
         "linkedIn":"https://www.linkedin.com/in/deepak-barnwal-216b48186",
