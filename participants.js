@@ -57,7 +57,7 @@ const participants = [
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
         "github": "https://github.com/aitoss",
         "skills": ['All Open Source Technologies'],
-        "description": "Hello World"
+        "description": "Learning"
     }
 
 ]
