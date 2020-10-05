@@ -11,6 +11,21 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 - **Sign up anytime between October 1 and October 31.**
 
+# Setting up git in local system
+Download git from https://git-scm.com/downloads
+
+- ## installation:
+  
+  - **[Go to link]( https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/ ):** `Follow upto step 14`
+  - **Check is installed properly:** Open command terminal and type in it-> `git --version` Hit enter
+  - **Message generated:** It shows current version of git installed
+  - **Getting an error:** Just google the error surely you will get solution
+
+- ## Configuring git:
+  
+  - **set your user name:** In cmd type->`git config --global user.name "John Doe"` 
+  - **set email address :** In cmd type->`git config --global user.email johndoe@example.com`
+  
 # How to contribute?
 
 There are two ways to contribute to this repository! Lets jump into it!!!!
@@ -57,11 +72,49 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
   - **📥Fetch the changes to your local system:** `git pull upstream`
   - **📤Push the updates to the online forked repository:** `git push origin master`
 
+# 👨‍💻Contributers/Participantsgit remote add upstream https://github.com/aitoss/HacktoberFest_2020.git
 # 👨‍💻Contributers/Participants
 + [Satya](http://www.github.com/satya9500) participated here.
 + [Deepshikha](https://github.com/dipsXD) participated here.
 + [Akshay Sharma](http://www.github.com/AkshaySharma008) participated here.
 + [Shuvam](http://www.github.com/shuvamk) participated here.
++ [Vikas](http://www.github.com/vikaschoudhary22) participated here. 
++ [Lavanya Jureddi](http://www.github.com/lavanya-tech) participated here.
++ [Ayushi](https://github.com/AYUSHII-SHARMA) participated here.
++ [yashaswi](https://www.github.com/Nullcoder9) participated here.
++ [Satya Prakash](https://github.com/Satya-here) participated here.
++ [Mayank Kumar](https://github.com/mayank-Kr) participated here.
++ [Shivangi Chauhan](https://github.com/Co123Dev) participated here.
++ [Amit Bhuyan](http://www.bhuyanamit986) participated here.
++ [yashaswi](https://www.github.com/Nullcoder9) participated here.
++ [Satya Prakash](https://github.com/Satya-here) participated here.
++ [Raj shekhar](http://www.github.com/learnisearning) participated here.
++ [Anjali Sharma](https://github.com/anjalee0299) participated here.
++ [Shikha Jha](https://github.com/shikha1810) participated here.
++ [P Divya Bharathi](https://github.com/pdivyabharathi) participated here.
++ [Amit Bhagat](https://github.com/AmitBhagat3301) participated here.
++ [Harshvardhan Singh Shekhawat](https://github.com/harshvardhan194) participated here.
++ [Tanvy Bhola](https://github.com/sashaen) participated here :) :D  
++ [Mohit Saini](https://github.com/mskSaini01) participated here.
++ [yashaswi](https://www.github.com/Nullcoder9) participated here.
++ [Satya Prakash](https://github.com/Satya-here) participated here.
++ [Digvijay Singh](https://github.com/dsprajput) participated here.
++ [Akash Saxena](https://github.com/Akashsaxena2308) participated here.
++ [Yogesh Kumar](https://github.com/yogeshok) participated here.
++ [Nishu Rai](https://github.com/nishu91020) participated here.
++ [yashaswi](https://www.github.com/Nullcoder9) participated here.
++ [Satya Prakash](https://github.com/Satya-here) participated here.
++ [Sourabh Tewatia](https://github.com/Sorbot/HacktoberFest_2020.git)participated here.
++ [Shekhar](http://www.github.com/The-Anton) participated here.
++ [Parvesh Kumar](https://github.com/Purgeme) participated here.
++ [Sachin Choudhary](http://www.github.com/sachin-611) participated here
++ [yashaswi](https://www.github.com/Nullcoder9) participated here.
++ [Satya Prakash](https://github.com/Satya-here) participated here.
++ [Aman](http://www.github.com/impulsive-impulse) participated here.
++ [Harish](https://github.com/HarishBajiya) participated here.
++ [Ritik Bhatt](http://github.com/bhattritik21) participated here.
++ [Devansh Sharma](http://www.github.com/devansh9011) participated here.
++ [Ishan](https://github.com/thanksalot123) participated here.
 + [Priya](http://www.github.com/priya2668135) participated here.
 + [Pratik Sunil Phadtare](http://www.github.com/Pratik282001) participated here.
 + [N Pawan Kumar](https://github.com/npawankr1) participated here.
@@ -81,11 +134,22 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Satya Prakash](https://github.com/Satya-here) participated here.
 + [Arpit](https://github.com/arkumish) participated here.
 + [Aditya Tathagath](https://github.com/adityatathagath) participated here.
++ [yashaswi](https://www.github.com/Nullcoder9) participated here.
++ [Satya Prakash](https://github.com/Satya-here) participated here.
++ [Maniraj Gautam](https://github.com/Lucifermaniraj) participated here.
++ [yashaswi](https://www.github.com/Nullcoder9) participated here.
++ [Satya Prakash](https://github.com/Satya-here) participated here.
 + [Aditya Tathagath](https://github.com/adityatathagath) participated here.
 + [Maniraj Gautam](https://github.com/Lucifermaniraj) participated here.
++ [kp_11](https://github.com/gitkp11) participated here.
++ [Sunny Bhandari](https://github.com/sunnybhandari02) participated here.
++ [Govind Prasad Sharma](https://github.com/Gopu03GPS) participated here.
 + [kp_11](https://github.com/gitkp11) participated here.
 + [Thunder._.moon](https://github.com/himani-singh-8899) participated here.
 + [DeOxYs](https://github.com/DeOxYs24) participated here.
 + [The-Fuse](https://github.com/The-Fuse) participated here.
 + [Eppisai](http://www.github.com/eppisai) participated here.
 + [Saheel](https://github.com/Saheelkumar2410) participated here.
++ [_memeghaj_](https://github.com/memeghaj10) participated here.
++ [Anuranjan Pandey](https://github.com/anuranjanpandey) participated here.
++ [Shellkore](https://github.com/shellkore) participated here.
