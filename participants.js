@@ -114,7 +114,7 @@ const participants = [
     },
     {
         "name": "Aman Singh",
-        "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeghttps://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "Open Source Enthusiast",
         "year": "BE - 2023",
         "linkedIn": "./#",
@@ -334,7 +334,7 @@ const participants = [
     },
     {
         "name": "DeOxYs",
-        "img": "",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "Rookie",
         "year": "SE 2020",
         "linkedIn": "https://www.linkedin.com/in/saheel-kumar-47ba691b5/",
