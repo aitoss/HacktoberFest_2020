@@ -69,6 +69,17 @@ const participants = [
         "skills": ['Python','Php','Android Studio'],
         "description": "A student intreseted in developing softwares at AIT, Pune."
     },
+    
+    {
+        "name": "Ritik Bhatt",
+        "img": "https://instagram.fdel25-1.fna.fbcdn.net/v/t51.2885-19/s150x150/92552607_253205502534768_3668440788531937280_n.jpg?_nc_ht=instagram.fdel25-1.fna.fbcdn.net&_nc_ohc=5mjq2sUkGIkAX9_qxw0&oh=d87d022a92e08aa0d0f4cbb63bd20438&oe=5FA4070F",
+        "title": "Noobie",
+        "year": "SE 2020",
+        "linkedIn": "https://www.linkedin.com/in/ritik-bhatt-681266194/",
+        "github": "https://github.com/bhattritik21",
+        "skills":['Python,html,css'] ,
+        "description": "Still discovering new things"
+    },
     {
         "name": "Akash Saxena",
         "img": "https://avatars3.githubusercontent.com/u/54790554?s=60&v=4",
