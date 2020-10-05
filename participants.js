@@ -379,6 +379,15 @@ const participants = [
         "github": "https://github.com/Purgeme",
         "skills": ['All Open Source Technologies', 'Game Development'],
         "description": "A student game developer."
+    },
+    {
+        "name": "Saheel Kumar",
+        "img": "",
+        "title": "Participant",
+        "year": "SE - 2020",
+        "github": "https://github.com/Saheelkumar2410",
+        "skills": ['A noobie trying my best'],
+        "description": "Noobie"
     }
 
 ]
