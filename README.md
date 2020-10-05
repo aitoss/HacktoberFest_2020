@@ -140,5 +140,3 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Shellkore](https://github.com/shellkore) participated here.
 + [Uncle toobag](https://github.com/uncletoobag) participated here.
 + [PuneetSharma008](https://github.com/PuneetSharma008) participated here .
-
->>>>>>> 01332377a2bc1c8e086e65309b1927cda0037b5a
