@@ -76,7 +76,7 @@ const participants = [
         "year": "SE 2020",
         "linkedIn": "https://www.linkedin.com/in/ritik-bhatt-681266194/",
         "github": "https://github.com/bhattritik21",
-        "skills":['Python,html,css'] ,
+        "skills":['Python','html','css'] ,
         "description": "Still discovering new things"
     },
     {
