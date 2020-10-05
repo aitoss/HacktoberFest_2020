@@ -407,6 +407,17 @@ const participants = [
         "github": "https://github.com/Saheelkumar2410",
         "skills": ['A noobie trying my best'],
         "description": "Noobie"
+    },
+    {
+        
+        "name":"Deepak Barnwal",
+        "img":"",
+        "title":"Participant",
+        "year":"BE-2023",
+        "linkedIn":"https://www.linkedin.com/in/deepak-barnwal-216b48186",
+        "github":"https://github.com/dbarnwal",
+        "skills":['C++', 'Python'],
+        "description":"Student at AIT"   
     }
 
 ]
