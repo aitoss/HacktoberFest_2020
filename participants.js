@@ -459,6 +459,16 @@ const participants = [
         "skills": ['Python','C++','Linux'],
         "description": "Student"
     },
+    {
+        "name": "Hexiang Zhang",
+        "img": "https://avatars0.githubusercontent.com/u/25831126?s=400&v=4",
+        "title": "Participant",
+        "year": "CS - 2020",
+        "linkedIn": "https://www.linkedin.com/in/hexiang-zhang/",
+        "github": "https://github.com/hexzha",
+        "skills": ['Python','Java'],
+        "description": "Student" 
+    }
 ]
 
 function loadParticipants() {
