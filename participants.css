@@ -176,9 +176,11 @@ button.primary.ghost.one {
     padding: 7px;
 }
 
+
+
 /*from here lies the containers in order 2*/
 .card-container-2 {
-    background-color: #231e39;
+    background-color: #6F1E51;
     border-radius: 5px;
     box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
     color: #b3b8cd;
@@ -210,10 +212,10 @@ button.primary.ghost.one {
 }
 
 button.primary-2 {
-    background-color: #03bfcb;
-    border: 1px solid #03bfcb;
+    background-color:  rgb(80, 9, 54);
+    border: 1px solid  rgb(80, 9, 54);
     border-radius: 3px;
-    color: #231e39;
+    color: #aba9b6;
     font-family: Montserrat, sans-serif;
     font-weight: 500;
     padding: 10px 25px;
@@ -221,11 +223,12 @@ button.primary-2 {
 
 button.primary.ghost.two {
     background-color: transparent;
-    color: #02899c;
+    color:  #c9d1d0;
+    border: 2px solid  rgb(80, 9, 54);
 }
 
 .skills-2 {
-    background-color: #1f1a36;
+    background-color: rgb(80, 9, 54);
     text-align: left;
     padding: 15px;
     margin-top: 30px;
@@ -239,7 +242,7 @@ button.primary.ghost.two {
 }
 
 .skills-2 ul li {
-    border: 1px solid #2d2747;
+    border: 1px solid #6F1E51;
     border-radius: 2px;
     display: inline-block;
     font-size: 12px;
@@ -249,7 +252,7 @@ button.primary.ghost.two {
 
 /*from here lies the containers in order 3*/
 .card-container-3 {
-    background-color: #6F1E51;
+    background-color: #231e39;
     border-radius: 5px;
     box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
     color: #b3b8cd;
@@ -281,10 +284,10 @@ button.primary.ghost.two {
 }
 
 button.primary-3 {
-    background-color:  rgb(80, 9, 54);
-    border: 1px solid  rgb(80, 9, 54);
+    background-color: #03bfcb;
+    border: 1px solid #03bfcb;
     border-radius: 3px;
-    color: #aba9b6;
+    color: #231e39;
     font-family: Montserrat, sans-serif;
     font-weight: 500;
     padding: 10px 25px;
@@ -292,12 +295,11 @@ button.primary-3 {
 
 button.primary.ghost.three {
     background-color: transparent;
-    color:  #c9d1d0;
-    border: 2px solid  rgb(80, 9, 54);
+    color: #02899c;
 }
 
 .skills-3 {
-    background-color: rgb(80, 9, 54);
+    background-color: #1f1a36;
     text-align: left;
     padding: 15px;
     margin-top: 30px;
@@ -311,7 +313,7 @@ button.primary.ghost.three {
 }
 
 .skills-3 ul li {
-    border: 1px solid #6F1E51;
+    border: 1px solid #2d2747;
     border-radius: 2px;
     display: inline-block;
     font-size: 12px;
