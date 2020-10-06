@@ -428,7 +428,7 @@ const participants = [
         "github": "https://github.com/vikaschoudhary22",
         "skills": ['Cyber security and ethical hacking', 'Game Development'],
         "description": "A student Enthusiastic to learn about space"
-    }
+    },
     {
         "name": "Digvijay Singh",
         "img": "https://media-exp1.licdn.com/dms/image/C5603AQFwxuFWJyv6FA/profile-displayphoto-shrink_200_200/0?e=1607558400&v=beta&t=10BMqmjkc1PNm5AlXSLIZBC8gn54huGRgSgxe6H_9Lc",
