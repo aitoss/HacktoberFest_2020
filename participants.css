@@ -32,11 +32,12 @@ p {
     line-height: 21px;
 }
 
+/*from here lies the containers in order 0*/
 .card-container {
-    background-color: #231e39;
+    background-color: #34495e;
     border-radius: 5px;
     box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
-    color: #b3b8cd;
+    color: #c9d1d0;
     position: relative;
     width: 100%;
     text-align: center;
@@ -65,10 +66,10 @@ p {
 }
 
 button.primary {
-    background-color: #03bfcb;
-    border: 1px solid #03bfcb;
+    background-color: #2f3542;
+    border: 1px solid #2f3542;
     border-radius: 3px;
-    color: #231e39;
+    color: #c9d1d0;
     font-family: Montserrat, sans-serif;
     font-weight: 500;
     padding: 10px 25px;
@@ -76,14 +77,16 @@ button.primary {
 
 button.primary.ghost {
     background-color: transparent;
-    color: #02899c;
+    color: #c9d1d0;
+    border: 2px solid #2f3542;
 }
 
 .skills {
-    background-color: #1f1a36;
+    background-color: #2f3542;
     text-align: left;
     padding: 15px;
     margin-top: 30px;
+    border-radius: 0 0 5px 5px;
 }
 .skills ul {
 
@@ -93,6 +96,78 @@ button.primary.ghost {
 }
 
 .skills ul li {
+    border: 1px solid #c1d9d0;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 12px;
+    margin: 0 7px 7px 0;
+    padding: 7px;
+}
+
+
+/*from here lies the containers in order 1*/
+.card-container-1 {
+    background-color: #7157e2;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
+    color: #b3b8cd;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.card-container-1 .pro {
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 3px 7px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+.card-container-1 .round {
+    border-radius: 50%;
+    padding: 7px;
+    margin-left:2%;
+}
+
+.round {
+    height: 150px;
+    width: 150px;
+}
+
+button.primary-1 {
+    background-color: #03bfcb;
+    border: 1px solid #03bfcb;
+    border-radius: 3px;
+    color: #231e39;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    padding: 10px 25px;
+}
+
+button.primary.ghost.one {
+    background-color: transparent;
+    color: #02899c;
+}
+
+.skills-1 {
+    background-color: #1f1a36;
+    text-align: left;
+    padding: 15px;
+    margin-top: 30px;
+    border-radius: 0 0 5px 5px;
+}
+.skills-1 ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.skills-1 ul li {
     border: 1px solid #2d2747;
     border-radius: 2px;
     display: inline-block;
@@ -100,6 +175,222 @@ button.primary.ghost {
     margin: 0 7px 7px 0;
     padding: 7px;
 }
+
+/*from here lies the containers in order 2*/
+.card-container-2 {
+    background-color: #231e39;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
+    color: #b3b8cd;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.card-container-2 .pro {
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 3px 7px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+.card-container-2 .round {
+    border-radius: 50%;
+    padding: 7px;
+    margin-left:2%;
+}
+
+.round {
+    height: 150px;
+    width: 150px;
+}
+
+button.primary-2 {
+    background-color: #03bfcb;
+    border: 1px solid #03bfcb;
+    border-radius: 3px;
+    color: #231e39;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    padding: 10px 25px;
+}
+
+button.primary.ghost.two {
+    background-color: transparent;
+    color: #02899c;
+}
+
+.skills-2 {
+    background-color: #1f1a36;
+    text-align: left;
+    padding: 15px;
+    margin-top: 30px;
+    border-radius: 0 0 5px 5px;
+}
+.skills-2 ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.skills-2 ul li {
+    border: 1px solid #2d2747;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 12px;
+    margin: 0 7px 7px 0;
+    padding: 7px;
+}
+
+/*from here lies the containers in order 3*/
+.card-container-3 {
+    background-color: #6F1E51;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
+    color: #b3b8cd;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.card-container-3 .pro {
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 3px 7px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+.card-container-3 .round {
+    border-radius: 50%;
+    padding: 7px;
+    margin-left:2%;
+}
+
+.round {
+    height: 150px;
+    width: 150px;
+}
+
+button.primary-3 {
+    background-color:  rgb(80, 9, 54);
+    border: 1px solid  rgb(80, 9, 54);
+    border-radius: 3px;
+    color: #aba9b6;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    padding: 10px 25px;
+}
+
+button.primary.ghost.three {
+    background-color: transparent;
+    color:  #c9d1d0;
+    border: 2px solid  rgb(80, 9, 54);
+}
+
+.skills-3 {
+    background-color: rgb(80, 9, 54);
+    text-align: left;
+    padding: 15px;
+    margin-top: 30px;
+    border-radius: 0 0 5px 5px;
+}
+.skills-3 ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.skills-3 ul li {
+    border: 1px solid #6F1E51;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 12px;
+    margin: 0 7px 7px 0;
+    padding: 7px;
+}
+
+/*from here lies the containers in order 4*/
+.card-container-4 {
+    background-color: #b33939;
+    border-radius: 5px;
+    box-shadow: 0px 10px 20px -10px rgba(0, 0, 0, 0.75);
+    color: #c9d1d0;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.card-container-4 .pro {
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 3px 7px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+.card-container-4 .round {
+    border-radius: 50%;
+    padding: 7px;
+    margin-left:2%;
+}
+
+.round {
+    height: 150px;
+    width: 150px;
+}
+
+button.primary-4 {
+    background-color: #8a1e1e;
+    border: 1px solid #8a1e1e;
+    border-radius: 3px;
+    color: #c1d9d0;
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;
+    padding: 10px 25px;
+}
+
+button.primary.ghost.four {
+    background-color: transparent;
+    color: #c9d1d0;
+    border: 2px solid #8a1e1e;
+}
+
+.skills-4 {
+    background-color: #8a1e1e;
+    text-align: left;
+    padding: 15px;
+    margin-top: 30px;
+    border-radius: 0 0 5px 5px;
+}
+.skills-4 ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.skills-4 ul li {
+    border: 2px solid #b33939;
+    border-radius: 2px;
+    display: inline-block;
+    font-size: 12px;
+    margin: 0 7px 7px 0;
+    padding: 7px;
+}
+
 
 .h1-title {
     text-align: center;
