@@ -180,6 +180,16 @@ const participants = [
         "description":"Student at AIT"
     },
     {
+        "name": "Govind Prasad Sharma",
+        "img": "https://avatars1.githubusercontent.com/u/59963674?s=460&u=ac8e3626d7195e88846deb0e6b888ab4ec68a447&v=4",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/govind-prasad-sharma-21859a1b0/",
+        "github": "https://github.com/Gopu03GPS",
+        "skills": ['C/C++', 'Java', 'Javascript', 'CP', 'Google Cloud'],
+        "description": "exploring and upgrading the 'GPS'."
+    },
+    {
         "name": "Ayush Pawar",
         "img": "https://avatars0.githubusercontent.com/u/55341566?s=460&u=0508e5f4b2f2260826778add4a8ca8c185576a70&v=4",
         "title": "Enthusiast",
