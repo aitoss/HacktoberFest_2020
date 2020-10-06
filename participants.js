@@ -60,6 +60,16 @@ const participants = [
         "description": "A Learner"
     },
     {
+        "name": "Shekhar",
+        "img": "https://avatars2.githubusercontent.com/u/51144829?s=460&u=3f66e67ea67bd3c80d9e49dfc26e9dab653f9bf7&v=4",
+        "title": "Participant",
+        "year": "SE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/The-Anton",
+        "github": "https://github.com/The-Anton",
+        "skills": ['Android','Nodejs','PyTorch','GCP','Web Dev'],
+        "description": "Core Team Member At DSC AIT"
+    },
+    {
         "name": "Sri Vaishnav",
         "img": "https://scontent.fhyd10-1.fna.fbcdn.net/v/t1.0-9/71271545_760268247727477_8001833249963769856_o.jpg?_nc_cat=101&_nc_sid=174925&_nc_ohc=4HkkLbkxEuwAX8WaoKp&_nc_ht=scontent.fhyd10-1.fna&oh=16f860e42d2fd6c1c06d47bb7cbc4381&oe=5F9F90D2",
         "title": "Student",
