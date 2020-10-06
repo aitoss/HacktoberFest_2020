@@ -68,8 +68,9 @@ function loadParticipants() {
         participant.skills.forEach((skill)=>{
             listed += `<li>${skill}</li>`;
         })
+        const pokemon = "card-container";
         const card = `<div class="col-md-3 mt-3">
-        <div class="card-container">
+        <div class="${pokemon}">
             <span class="pro">${participant.title}</span>
             <img
                     class="round"
