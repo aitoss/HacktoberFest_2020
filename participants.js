@@ -444,6 +444,7 @@ function loadParticipants() {
         participant.skills.forEach((skill) => {
             listed += `<li>${skill}</li>`;
         })
+        // variable classes
         var containerr = "card-container";
         var skill = "skills";
         var buttoncl = "primary";
