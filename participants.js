@@ -63,7 +63,7 @@ const participants = [
         "name": "Shekhar",
         "img": "https://avatars2.githubusercontent.com/u/51144829?s=460&u=3f66e67ea67bd3c80d9e49dfc26e9dab653f9bf7&v=4",
         "title": "Participant",
-        "year": "SE - 2022",
+        "year": "SE - 2020",
         "linkedIn": "https://www.linkedin.com/in/The-Anton",
         "github": "https://github.com/The-Anton",
         "skills": ['Android','Nodejs','PyTorch','GCP','Web Dev'],
