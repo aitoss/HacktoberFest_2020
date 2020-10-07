@@ -91,7 +91,7 @@ const participants = [
     },
     {
         "name": "Mayank Kumar",
-        "img": "https://drive.google.com/file/d/1PG2h6PB0G9mm4SYoiE2kwLBwNeKXOkk7/view?usp=sharing",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "Participant",
         "year": "BE - 2023",
         "linkedIn": "#",
