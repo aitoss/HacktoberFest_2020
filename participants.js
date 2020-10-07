@@ -459,7 +459,7 @@ function loadParticipants() {
             containerr = "card-container-2";
             skill = "skills-2";
             buttoncl = "primary-2";
-            ghost = "primary ghost";
+            ghost = "primary ghost two";
         }
         else if(participant.year == "BE - 2022"){
             containerr = "card-container-3";
