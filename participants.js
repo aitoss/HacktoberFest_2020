@@ -429,6 +429,16 @@ const participants = [
         "skills": ['A noobie trying my best'],
         "description": "Noobie"
     },
+    {        
+        "name":"Deepak Barnwal",
+        "img":"https://avatars3.githubusercontent.com/u/56596211?s=460&u=273786d051a691b98766bab9cfa3cc34a99b589a&v=4",
+        "title":"Participant",
+        "year":"BE-2023",
+        "linkedIn":"https://www.linkedin.com/in/deepak-barnwal-216b48186",
+        "github":"https://github.com/dbarnwal",
+        "skills":['C++', 'Python'],
+        "description":"Student at AIT"   
+    },
     {
         "name": "Shikha Jha",
         "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
