@@ -73,7 +73,7 @@ const participants = [
         "name": "Ritik Bhatt",
         "img": "https://instagram.fdel25-1.fna.fbcdn.net/v/t51.2885-19/s150x150/92552607_253205502534768_3668440788531937280_n.jpg?_nc_ht=instagram.fdel25-1.fna.fbcdn.net&_nc_ohc=5mjq2sUkGIkAX9_qxw0&oh=d87d022a92e08aa0d0f4cbb63bd20438&oe=5FA4070F",
         "title": "Noobie",
-        "year": "SE 2020",
+        "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/in/ritik-bhatt-681266194/",
         "github": "https://github.com/bhattritik21",
         "skills":['Python','html','css'] ,
@@ -83,7 +83,7 @@ const participants = [
         "name": "Akash Saxena",
         "img": "https://avatars3.githubusercontent.com/u/54790554?s=60&v=4",
         "title": "OSS Jt Sec",
-        "year": "SE - 2023",
+        "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
         "github": "https://github.com/aitoss",
         "skills": ['ReactJs','Bootstrap','JS','HTML','CS'],
@@ -91,8 +91,15 @@ const participants = [
     },
     {
         "name": "Mayank Kumar",
-        "img": "https://drive.google.com/file/d/1PG2h6PB0G9mm4SYoiE2kwLBwNeKXOkk7/view?usp=sharing",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn": "#",
+        "github": "https://github.com/nishu91020",
+        "skills": ['basic development','github','sneaking'],
+        "description": "A Student of AIT"
+    },
+    {    
         "name": "Nishu Rai",
         "img": "https://avatars3.githubusercontent.com/u/54761473?s=460&u=70ff584a841f0748305e405fe3db9eca5ddd2608&v=4",
         "title": "Participant",
@@ -106,7 +113,7 @@ const participants = [
       "name":"Yashaswi Mailaru",
       "img":"https://avatars2.githubusercontent.com/u/68941273?s=460&v=4",
       "title":"Participant",
-      "year":"BE-2023",
+      "year":"BE - 2023",
       "linkedIn":"https://www.linkedin.com/in/yashaswi-mailaru-7b9169190/",
       "github":"https://github.com/Nullcoder9",
       "skills":['C++' , 'Nodejs'],
@@ -146,7 +153,7 @@ const participants = [
         "name": "Amit Bhagat",
         "img": "https://images.unsplash.com/photo-1518933165971-611dbc9c412d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
         "title": "Lets start opensource",
-        "year": "BE-2023",
+        "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/in/amit-bhagat-860341192/",
         "github": "https://github.com/AmitBhagat3301",
         "skills": ["a learner"],
@@ -176,7 +183,7 @@ const participants = [
         "name": "Harish Bajiya",
         "img": "https://avatars2.githubusercontent.com/u/58135353?s=460&u=9909c0f062441abaaa86bc060dc8be622d3ff405&v=4",
         "title": "Tech Enthusiast",
-        "year": "BE - 2024",
+        "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
         "github": "https://github.com/aitoss",
         "skills": ['Flutter', 'Vue.js'],
@@ -286,7 +293,7 @@ const participants = [
         "name":"Sachin Choudhary",
         "img":"https://avatars2.githubusercontent.com/u/54989437?s=460&u=b0a939329e8daa072469b228349c1e9927a29a30&v=4",
         "title":"Noobie",
-        "year":"BE-2023",
+        "year":"BE - 2023",
         "linkedIn":"https://www.linkedin.com/in/sachin-choudhary-7037381a9/",
         "github":"https://github.com/sachin-611",
         "skills":['C++','python'],
@@ -326,7 +333,7 @@ const participants = [
         "name": "Ankit Kumar",
         "img": "https://avatars0.githubusercontent.com/u/56212417?s=460&amp;u=95a0155aade927a25bdc8d516d54c872a21ce1a0&amp;v=4",
         "title": "OSS club Member",
-        "year": "SE 2020",
+        "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/in/ankit-kumar-706243125/",
         "github": "https://github.com/cnarte",
         "skills": ['Tensorflow' ,'GCP', 'Flask','IBM-Qiskit'],
@@ -336,7 +343,7 @@ const participants = [
         "name": "DeOxYs",
         "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "Rookie",
-        "year": "SE 2020",
+        "year": "BE - 2023",
         "linkedIn": "https://www.linkedin.com/in/saheel-kumar-47ba691b5/",
         "github": "https://github.com/DeOxYs24",
         "skills": ['Not afraid of learning new tech'],
@@ -346,7 +353,7 @@ const participants = [
         "name": "Meghaj Singh",
         "img": "https://avatars0.githubusercontent.com/u/49283403?s=400&u=228bd9e514d69021dcae34d3d929c7b87381dbff&v=4",
         "title": "Coping up with Tech!",
-        "year": "BE-2022",
+        "year": "BE - 2022",
         "linkedIn" : "https://www.linkedin.com/in/meghaj-singh-545846167/",
         'github': "https://github.com/memeghaj10",
         "skills": ['C++','Python','NLP & NLTK','Web Development using MERN stack','Data Science'],
@@ -356,7 +363,7 @@ const participants = [
         "name":"Sachin Choudhary",
         "img":"https://avatars2.githubusercontent.com/u/54989437?s=460&u=b0a939329e8daa072469b228349c1e9927a29a30&v=4",
         "title":"Noobie",
-        "year":"BE-2023",
+        "year":"BE - 2023",
         "linkedIn":"https://www.linkedin.com/in/sachin-choudhary-7037381a9/",
         "github":"https://github.com/sachin-611",
         "skills":['C++','python'],
@@ -366,7 +373,7 @@ const participants = [
         "name":"Anuranjan Pandey",
         "img":"https://avatars0.githubusercontent.com/u/53137708?s=400&u=88f891101c0a4b62095e5b8733f7670ebd8ee73d&v=4",
         "title":"Participant",
-        "year":"BE-2023",
+        "year":"BE - 2023",
         "linkedIn":"https://www.linkedin.com/in/anuranjan-pandey-8b8623140/",
         "github":"https://github.com/anuranjanpandey",
         "skills":['C++', 'Python'],
@@ -404,7 +411,7 @@ const participants = [
         "name": "Saheel Kumar",
         "img": "",
         "title": "Participant",
-        "year": "SE - 2020",
+        "year": "BE - 2023",
         "github": "https://github.com/Saheelkumar2410",
         "skills": ['A noobie trying my best'],
         "description": "Noobie"
@@ -437,8 +444,39 @@ function loadParticipants() {
         participant.skills.forEach((skill) => {
             listed += `<li>${skill}</li>`;
         })
+        // variable classes
+        var containerr = "card-container";
+        var skill = "skills";
+        var buttoncl = "primary";
+        var ghost = "primary ghost";
+
+        if(participant.year == "BE - 2024"){
+            containerr = "card-container-1";
+            skill = "skills-1";
+            buttoncl = "primary-1";
+            ghost = "primary ghost one";
+        }
+        else if(participant.year == "BE - 2023"){
+            containerr = "card-container-2";
+            skill = "skills-2";
+            buttoncl = "primary-2";
+            ghost = "primary ghost two";
+        }
+        else if(participant.year == "BE - 2022"){
+            containerr = "card-container-3";
+            skill = "skills-3";
+            buttoncl = "primary-3";
+            ghost = "primary ghost three";
+        }
+        else if(participant.year == "BE - 2021"){
+            containerr = "card-container-4";
+            skill = "skills-4";
+            buttoncl = "primary-4";
+            ghost = "primary ghost four";
+        }
+        
         const card = `<div class="col-sm-12 col-md-6 col-lg-4 mt-3">
-        <div class="card-container">
+        <div class="${containerr}">
             <span class="pro">${participant.title}</span>
             <img
                     class="round"
@@ -451,14 +489,14 @@ function loadParticipants() {
                 ${participant.description}
             </p>
             <div class="buttons">
-                <button onclick="location.href='${participant.linkedIn}';" class="primary">
+                <button onclick="location.href='${participant.linkedIn}';" class="${buttoncl}">
                     LinkedIn
                 </button>
-                <button onclick="location.href='${participant.github}';" class="primary ghost">
+                <button onclick="location.href='${participant.github}';" class="${ghost}">
                     Github
                 </button>
             </div>
-            <div class="skills">
+            <div class="${skill}">
                 <h6>Skills</h6>
                 <ul>
                     ${listed}
