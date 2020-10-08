@@ -14,6 +14,7 @@ body {
     min-height: 100vh;
     margin: auto;
     background: url(https://embed-fastly.wistia.com/deliveries/49bd387c40e2c5aada92abdf973bc46d.webp?image_crop_resized=1980x1080);
+    background-position: fixed;
 }
 
 

@@ -60,6 +60,16 @@ const participants = [
         "description": "A Learner"
     },
     {
+        "name": "Shekhar",
+        "img": "https://avatars2.githubusercontent.com/u/51144829?s=460&u=3f66e67ea67bd3c80d9e49dfc26e9dab653f9bf7&v=4",
+        "title": "Participant",
+        "year": "SE - 2020",
+        "linkedIn": "https://www.linkedin.com/in/The-Anton",
+        "github": "https://github.com/The-Anton",
+        "skills": ['Android','Nodejs','PyTorch','GCP','Web Dev'],
+        "description": "Core Team Member At DSC AIT"
+    },
+    {
         "name": "Sri Vaishnav",
         "img": "https://scontent.fhyd10-1.fna.fbcdn.net/v/t1.0-9/71271545_760268247727477_8001833249963769856_o.jpg?_nc_cat=101&_nc_sid=174925&_nc_ohc=4HkkLbkxEuwAX8WaoKp&_nc_ht=scontent.fhyd10-1.fna&oh=16f860e42d2fd6c1c06d47bb7cbc4381&oe=5F9F90D2",
         "title": "Student",
@@ -76,7 +86,7 @@ const participants = [
         "year": "SE 2020",
         "linkedIn": "https://www.linkedin.com/in/ritik-bhatt-681266194/",
         "github": "https://github.com/bhattritik21",
-        "skills":['Python,html,css'] ,
+        "skills":['Python','html','css'] ,
         "description": "Still discovering new things"
     },
     {
@@ -114,7 +124,7 @@ const participants = [
     },
     {
         "name": "Aman Singh",
-        "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but-cool-profile-pic-or-logo-for-u.jpeghttps://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/115909667/original/7d79dd80b9eecaa289de1bc8065ad44aa03e2daf/do-a-simple-but",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "Open Source Enthusiast",
         "year": "BE - 2023",
         "linkedIn": "./#",
@@ -184,7 +194,7 @@ const participants = [
     }, 
     {
         "name": "Ishan Awasthi",
-        "img": "#",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "Participant",
         "year": "BE - 2023",
         "linkedIn": "#",
@@ -293,6 +303,16 @@ const participants = [
         "description":"Student at AIT"
     },
     {
+        "name": "Govind Prasad Sharma",
+        "img": "https://avatars1.githubusercontent.com/u/59963674?s=460&u=ac8e3626d7195e88846deb0e6b888ab4ec68a447&v=4",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/govind-prasad-sharma-21859a1b0/",
+        "github": "https://github.com/Gopu03GPS",
+        "skills": ['C/C++', 'Java', 'Javascript', 'CP', 'Google Cloud'],
+        "description": "exploring and upgrading the 'GPS'."
+    },
+    {
         "name": "Ayush Pawar",
         "img": "https://avatars0.githubusercontent.com/u/55341566?s=460&u=0508e5f4b2f2260826778add4a8ca8c185576a70&v=4",
         "title": "Enthusiast",
@@ -334,7 +354,7 @@ const participants = [
     },
     {
         "name": "DeOxYs",
-        "img": "",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
         "title": "Rookie",
         "year": "SE 2020",
         "linkedIn": "https://www.linkedin.com/in/saheel-kumar-47ba691b5/",
@@ -389,6 +409,7 @@ const participants = [
         "github": "https://github.com/PuneetSharma008",
         "skills": ['All Open Source Technologies'],
         "description": "A learner."
+    }, 
     {
         "name": "Devansh Sharma",
         "img": "https://avatars1.githubusercontent.com/u/42490656?s=400&v=4",
@@ -408,8 +429,7 @@ const participants = [
         "skills": ['A noobie trying my best'],
         "description": "Noobie"
     },
-    {
-        
+    {        
         "name":"Deepak Barnwal",
         "img":"https://avatars3.githubusercontent.com/u/56596211?s=460&u=273786d051a691b98766bab9cfa3cc34a99b589a&v=4",
         "title":"Participant",
@@ -418,8 +438,47 @@ const participants = [
         "github":"https://github.com/dbarnwal",
         "skills":['C++', 'Python'],
         "description":"Student at AIT"   
+    },
+    {
+        "name": "Shikha Jha",
+        "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
+        "title": "Participant",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/company/open-source-software-club/",
+        "github": "https://github.com/aitoss",
+        "skills": ['Interested in Open Source Technologies'],
+        "description": "Learning"
+    },
+    {
+        "name": "Vikas Choudhary",
+        "img": "https://media-exp1.licdn.com/dms/image/C5103AQErPOc_YJReZw/profile-displayphoto-shrink_400_400/0?e=1607558400&v=beta&t=gjVjImjKQ8wCC-EsMFKlvJFocVxurGudEOBoz0d25Mo",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn":"https://www.linkedin.com/in/vikas-choudhary-3b286819b/",
+        "github": "https://github.com/vikaschoudhary22",
+        "skills": ['Cyber security and ethical hacking', 'Game Development'],
+        "description": "A student Enthusiastic to learn about space"
+    },
+    {
+        "name": "Digvijay Singh",
+        "img": "https://media-exp1.licdn.com/dms/image/C5603AQFwxuFWJyv6FA/profile-displayphoto-shrink_200_200/0?e=1607558400&v=beta&t=10BMqmjkc1PNm5AlXSLIZBC8gn54huGRgSgxe6H_9Lc",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/dsprajput/",
+        "github": "https://github.com/dsprajput",
+        "skills": ['Python','C++','Linux'],
+        "description": "Student"
+    },
+    {
+        "name": "Hexiang Zhang",
+        "img": "https://avatars0.githubusercontent.com/u/25831126?s=400&v=4",
+        "title": "Participant",
+        "year": "CS - 2020",
+        "linkedIn": "https://www.linkedin.com/in/hexiang-zhang/",
+        "github": "https://github.com/hexzha",
+        "skills": ['Python','Java'],
+        "description": "Student" 
     }
-
 ]
 
 function loadParticipants() {
