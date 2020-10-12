@@ -478,7 +478,17 @@ const participants = [
         "github": "https://github.com/hexzha",
         "skills": ['Python','Java'],
         "description": "Student" 
-    }
+    },
+    {
+    	"name": "Akshit Mamgain",
+        "img": "https://avatars1.githubusercontent.com/u/47073086?s=460&u=dc587b0707206f4ca09dccfcc4aa850a2feee834&v=4",
+        "title": "Participant",
+        "year": "BE-2022",
+        "linkedIn": "https://www.linkedin.com/in/akshit-mamgain-a5a2541b3/",
+        "github": "https://github.com/gitakshit",
+        "skills": ['C/C++' ,'Python', 'SQL'],
+        "description": "Learning new things."
+     }
 ]
 
 function loadParticipants() {
