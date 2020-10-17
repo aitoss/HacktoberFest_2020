@@ -191,7 +191,7 @@ const participants = [
         "github": "https://github.com/aitoss",
         "skills": ['Flutter', 'Vue.js'],
         "description": "Code never lets you down"
-    }, 
+    },
     {
         "name": "Ishan Awasthi",
         "img": "https://avatars3.githubusercontent.com/u/47062438?s=400&u=ab4cb37695763efe4297b2da4b7f97cd8f6f888b&v=4",
@@ -371,7 +371,7 @@ const participants = [
         'github': "https://github.com/memeghaj10",
         "skills": ['C++','Python','NLP & NLTK','Web Development using MERN stack','Data Science'],
         "description": "A young learner."
-    }, 
+    },
     {
         "name":"Sachin Choudhary",
         "img":"https://avatars2.githubusercontent.com/u/54989437?s=460&u=b0a939329e8daa072469b228349c1e9927a29a30&v=4",
@@ -409,7 +409,7 @@ const participants = [
         "github": "https://github.com/PuneetSharma008",
         "skills": ['All Open Source Technologies'],
         "description": "A learner."
-    }, 
+    },
     {
         "name": "Devansh Sharma",
         "img": "https://avatars1.githubusercontent.com/u/42490656?s=400&v=4",
@@ -429,7 +429,7 @@ const participants = [
         "skills": ['A noobie trying my best'],
         "description": "Noobie"
     },
-    {        
+    {
         "name":"Deepak Barnwal",
         "img":"https://avatars3.githubusercontent.com/u/56596211?s=460&u=273786d051a691b98766bab9cfa3cc34a99b589a&v=4",
         "title":"Participant",
@@ -437,7 +437,7 @@ const participants = [
         "linkedIn":"https://www.linkedin.com/in/deepak-barnwal-216b48186",
         "github":"https://github.com/dbarnwal",
         "skills":['C++', 'Python'],
-        "description":"Student at AIT"   
+        "description":"Student at AIT"
     },
     {
         "name": "Shikha Jha",
@@ -477,7 +477,17 @@ const participants = [
         "linkedIn": "https://www.linkedin.com/in/hexiang-zhang/",
         "github": "https://github.com/hexzha",
         "skills": ['Python','Java'],
-        "description": "Student" 
+        "description": "Student"
+    },
+    {
+        "name": "Sehej Bakshi",
+        "img": "https://avatars3.githubusercontent.com/u/52279659?s=400&v=4",
+        "title": "Participant",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/sehej-bakshi-35318a173/",
+        "github": "https://github.com/SehejBakshi",
+        "skills": ['Python','ML', 'DL', 'WebD'],
+        "description": "Student at AIT"
     }
 ]
 
