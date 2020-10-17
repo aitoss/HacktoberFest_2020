@@ -17,17 +17,17 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 Download git from https://git-scm.com/downloads
 
 - ## installation:
-  
+
   - **[Go to link]( https://www.linode.com/docs/development/version-control/how-to-install-git-on-linux-mac-and-windows/ ):** `Follow upto step 14`
   - **Check is installed properly:** Open command terminal and type in it-> `git --version` Hit enter
   - **Message generated:** It shows current version of git installed
   - **Getting an error:** Just google the error surely you will get solution
 
 - ## Configuring git:
-  
-  - **set your user name:** In cmd type->`git config --global user.name "John Doe"` 
+
+  - **set your user name:** In cmd type->`git config --global user.name "John Doe"`
   - **set email address :** In cmd type->`git config --global user.email johndoe@example.com`
-  
+
 # How to contribute?
 
 There are two ways to contribute to this repository! Lets jump into it!!!!
@@ -53,7 +53,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 - ## The Geek's way (Using Bash Commands):
 
    - **🍴Fork the repository:** `Look for the 'Fork' button in the repository pages`
-   
+
    - **💕Clone the repository:** `git clone https://github.com/YOUR_GITHUB_USER_NAME/HacktoberFest`
 
    - **😎Code Blooded:**  `Make changes to the project`
@@ -82,7 +82,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Shikha Jha](https://github.com/shikha1810) participated here.
 + [yashaswi](https://www.github.com/Nullcoder9) participated here.
 + [Satya Prakash](https://github.com/Satya-here) participated here.
-+ [Vikas](http://www.github.com/vikaschoudhary22) participated here. 
++ [Vikas](http://www.github.com/vikaschoudhary22) participated here.
 + [Lavanya Jureddi](http://www.github.com/lavanya-tech) participated here.
 + [Ayushi](https://github.com/AYUSHII-SHARMA) participated here.
 + [Mayank Kumar](https://github.com/mayank-Kr) participated here.
@@ -142,4 +142,4 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Deepak Barnwal](https://github.com/dbarnwal) participated here.
 + [Hexiang Zhang](https://github.com/hexzha) participated here.
 + [Akshit Mamgain](https://github.com/gitakshit) participated here.
-
++ [Sehej Bakshi](https://github.com/SehejBakshi) participated here.
