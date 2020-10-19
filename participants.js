@@ -522,7 +522,7 @@ function loadParticipants() {
             <span class="pro">${participant.title}</span>
             <img
                     class="round"
-                    src=${participant.img}
+                    src=${participant.img || 'https://i.stack.imgur.com/l60Hf.png'}
                     alt="user"
             />
             <h3>${participant.name}</h3>
