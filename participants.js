@@ -498,6 +498,16 @@ const participants = [
         "github": "https://github.com/SehejBakshi",
         "skills": ['Python','ML', 'DL', 'WebD'],
         "description": "Student at AIT"
+    },
+     {
+        "name": "Saurav Singh Rauthan",
+        "img": "https://avatars3.githubusercontent.com/u/54982868?s=460&v=4",
+        "title": "Participant",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/saurav-singh-rauthan-87141918b/",
+        "github": "https://github.com/Saurav-Singh-Rauthan",
+        "skills": ['Python','HTML', 'CSS', 'JS','C++'],
+        "description": "SE at AIT"
     }
 ]
 
