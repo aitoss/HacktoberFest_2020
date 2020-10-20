@@ -490,6 +490,16 @@ const participants = [
         "description": "Learning new things."
     },
     {
+        "name": "Umesh Kumar",
+        "img": "https://avatars2.githubusercontent.com/u/13677074?s=460&u=9e59959993ec85fb67590ca546ebf32ec9d6f350&v=4",
+        "title": "Participant",
+        "year": "BE - 2020",
+        "linkedIn": "https://www.linkedin.com/in/umesh-kumar-55a48a144/",
+        "github": "https://github.com/Umesh6361",
+        "skills": ['Python', 'WebD'],
+        "description": "Learning New Technologies"
+    },
+    {
         "name": "Sehej Bakshi",
         "img": "https://avatars3.githubusercontent.com/u/52279659?s=400&v=4",
         "title": "Participant",
