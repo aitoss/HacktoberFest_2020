@@ -50,6 +50,16 @@ const participants = [
         "description": "Former OSS Management Head"
     },
     {
+        "name": "Snehasis Sahoo",
+        "img": "https://avatars2.githubusercontent.com/u/54761358?s=400&u=8999797f2fcb6d9029c382af31f091af7394be09&v=4",
+        "title": "OSS Jt Tech Head",
+        "year": "BE - 2023",
+        "linkedIn": "https://www.linkedin.com/in/kazukilapislazuli",
+        "github": "https://github.com/kazukilapislazuli",
+        "skills": ['Python','NodeJS','JS','Bootstrap','HTML','CSS','Shell'],
+        "description": "Open Source Enthusiast"  
+    },
+    {
         "name": "N Pawan Kumar",
         "img": "https://avatars1.githubusercontent.com/u/58778029?s=460&u=90bda2297fc6557c8bd72171d42f0dae879931f9&v=4",
         "title": "New to OSS",
@@ -512,7 +522,7 @@ function loadParticipants() {
             <span class="pro">${participant.title}</span>
             <img
                     class="round"
-                    src=${participant.img}
+                    src=${participant.img || 'https://i.stack.imgur.com/l60Hf.png'}
                     alt="user"
             />
             <h3>${participant.name}</h3>
