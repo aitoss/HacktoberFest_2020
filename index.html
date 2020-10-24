@@ -23,6 +23,7 @@
     <!-- Styles -->
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/fontawesome-all.css" rel="stylesheet">
     <link href="css/swiper.css" rel="stylesheet">
@@ -393,7 +394,7 @@
 
     <!-- Testimonials -->
     <div class="slider-1" id="about">
-        <div class="container" >
+        <div class="container" data-aos="fade-left">
             <h3>What is <span style="color: yellow;">Hacktoberfest?</span></h3>
              <div class="p-large"><b>Hacktoberfest</b> is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. Hacktoberfest is open to everyone in our global community! Five quality pull requests
                   must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31.</p>
@@ -424,10 +425,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                    <h2>ORGANIZED BY</h2>
-                   <div class="logo-org"><img class="org" id="fest" src="images/logo.png" alt=" "></div>
-                   <br><br>
-                   <h4 >OSS Club Of <a href="https://aitpune.com/">Army Institute of Technology,Pune</a></h4>
+                        <h2>ORGANIZED BY</h2>
+                        <div class="logo-org" data-aos="flip-left" data-aos-easing="ease-out-cubic"
+                        data-aos-duration="2000"><img class="org" id="fest" src="images/logo.png" alt=" "></div>
+                        <br><br>
+                        <h4 >OSS Club Of <a href="https://aitpune.com/">Army Institute of Technology,Pune</a></h4>
                     </div>
 
                 </div>
@@ -498,11 +500,11 @@
                         <p>Whether it’s your first or fiftieth pull request, there’s always more to learn! We’ve put together a few resources that can help you create quality pull requests, keep your repositories pristine, and build on your open source knowledge.</p>
                         <a class="btn-solid-reg popup-with-move-anim" href="https://docs.google.com/document/d/1QD3FBnPD-CEfbjvgV_wytijWo9iV6k1PmD0o_7XKI6o/edit?usp=sharing">Code of Conduct</a>
                     </div> -->
-                    <div class="col-md-4">
+                    <div class="col-md-4" data-aos="fade-down">
                         <iframe class="frames" height="200rem" width="320rem" src="https://www.youtube.com/embed/mll-akn8Gqs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-md-8" data-aos="fade-up">
                         <h3>Rules for Fest</h3>
                         <p>Whether it’s your first or fiftieth pull request, there’s always more to learn! We’ve put together a few resources that can help you create quality pull requests, keep your repositories pristine, and build on your open source knowledge.</p>
                         <!-- <a class="btn-solid-reg popup-with-move-anim" href="https://docs.google.com/document/d/1gFKOhyUqMZzrZcbq8A_TpO5x9J9HK6agv70awCH8pyI/edit">Code of Conduct</a> -->
@@ -527,16 +529,32 @@
             <h2 class="text-center">Goodies and Swags !!!</h2>
             <div class="row">
             <div class="col-md-3 my-2">
-                <img style="height:250px;" src="images/hack-2.jpg" src=" ">
+                <img style="height:250px;" 
+                    data-aos="fade-right"
+                    data-aos-offset="300"
+                    data-aos-easing="ease-in-sine"
+                    src="images/hack-2.jpg">
             </div>
             <div class="col-md-4 my-2">
-                <img style="height:250px;" src="images/hack-logo.jpg" src=" ">
+                <img style="height:250px;"
+                    data-aos="fade-left"
+                    data-aos-offset="300"
+                    data-aos-easing="ease-in-sine"
+                     src="images/hack-logo.jpg">
             </div>
             <div class="col-md-3 my-2">
-                <img style="height:250px;" src="images/hack-3.jpg" src=" ">
+                <img style="height:250px;" 
+                data-aos="fade-right"
+                data-aos-offset="300"
+                data-aos-easing="ease-in-sine"
+                    src="images/hack-3.jpg">
             </div>
             <div class="col-md-2 my-2">
-                <img style="height:250px;" src="images/hack-4.jpg" src=" ">
+                <img style="height:250px;"
+                        data-aos="fade-left"
+                        data-aos-offset="300"
+                        data-aos-easing="ease-in-sine"
+                        src="images/hack-4.jpg">
             </div>
             </div> <!-- end of row -->
         </div> <!-- end of container -->
@@ -656,6 +674,12 @@
         speed: 600,
     });
 
+    </script>
+
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
     </script>
 </body>
 </html>
