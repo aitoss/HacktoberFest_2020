@@ -518,7 +518,7 @@ function loadParticipants() {
             listed += `<li>${skill}</li>`;
         })
         const card = `<div class="col-sm-12 col-md-6 col-lg-4 mt-3">
-        <div class="card-container">
+        <div class="card-container" data-aos="flip-left">
             <span class="pro">${participant.title}</span>
             <img
                     class="round"
