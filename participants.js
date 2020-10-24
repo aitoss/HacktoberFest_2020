@@ -353,6 +353,16 @@ const participants = [
         "description": "Breaking the chain through the fuse"
     },
     {
+        "name": "Raj Shekhar singh",
+        "img": "https://avatars1.githubusercontent.com/u/72275401?s=400&u=aa8d4251ec87a181c4fce226c202bfa93f1a31a9&v=4",
+        "title": "Learner",
+        "year": "BE - 2022",
+        "linkedIn": "https://www.linkedin.com/in/raj-shekhar-singh-a985561aa/",
+        "github": "https://github.com/learnisearning",
+        "skills": ['C++' ,'Python','Data Science'],
+        "description": "Enthusiastic Learner"
+    },
+    {
         "name": "Ankit Kumar",
         "img": "https://avatars0.githubusercontent.com/u/56212417?s=460&amp;u=95a0155aade927a25bdc8d516d54c872a21ce1a0&amp;v=4",
         "title": "OSS club Member",
