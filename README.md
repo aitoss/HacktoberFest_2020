@@ -206,7 +206,7 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Eppisai](http://www.github.com/eppisai) participated here.
 + [Saheel](https://github.com/Saheelkumar2410) participated here.
 + [_memeghaj_](https://github.com/memeghaj10) participated here.
-+ [Palak-137](https://github.com/Palak-137) participated here.
++ [Palak-137](https://github.com/Palak-137) participated here
 + [Anuranjan Pandey](https://github.com/anuranjanpandey) participated here.
 + [Shellkore](https://github.com/shellkore) participated here.
 + [Uncle toobag](https://github.com/uncletoobag) participated here.
