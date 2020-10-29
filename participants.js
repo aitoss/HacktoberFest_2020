@@ -393,6 +393,16 @@ const participants = [
         "description":"Student at AIT"
     },
     {
+        "name": "Kumari Palak",
+        "img": "https://avatars0.githubusercontent.com/u/54790525?s=400&u=b50960a6416302bfff7eaa221cb93cedab8c075e&v=4",
+        "title": "Level 1",
+        "year": "SE 2020",
+        "linkedIn": "https://www.linkedin.com/in/kumaripalak/",
+        "github": "https://github.com/Palak-137",
+        "skills":['html','css','c++','ReactJs'] ,
+        "description": "Learing is workship"
+    },
+    {
         "name":"Anuranjan Pandey",
         "img":"https://avatars0.githubusercontent.com/u/53137708?s=400&u=88f891101c0a4b62095e5b8733f7670ebd8ee73d&v=4",
         "title":"Participant",
