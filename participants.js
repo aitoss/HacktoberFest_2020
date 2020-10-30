@@ -60,6 +60,16 @@ const participants = [
         "description": "Open Source Enthusiast"  
     },
     {
+        "name": "Shivam Kumar Pathak",
+        "img": "https://avatars0.githubusercontent.com/u/31039145?s=460&u=63e3157e780fe20148dc1bc563df053db99061c1&v=4",
+        "title": "OSS friend",
+        "year": "BE - 2021",
+        "linkedIn": "https://www.linkedin.com/in/pathakcodes",
+        "github": "https://github.com/pathakcodes",
+        "skills": ['Fast Learner'],
+        "description": "Loves OSS AIT"  
+    },
+    {
         "name": "N Pawan Kumar",
         "img": "https://avatars1.githubusercontent.com/u/58778029?s=460&u=90bda2297fc6557c8bd72171d42f0dae879931f9&v=4",
         "title": "New to OSS",
