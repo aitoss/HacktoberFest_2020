@@ -12,7 +12,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 - **For your Pull Request to be counted it should be labelled as hacktoberfest-accepted or should be merged to the repo.**
 
-- **Sign up anytime between October 1 and October 31.**
+- **Sign up anytime between October 1, 2020 and October 31, 2020.**
 
 # Setting up git in local system
 
@@ -216,4 +216,4 @@ There are two ways to contribute to this repository! Lets jump into it!!!!
 + [Akshit Mamgain](https://github.com/gitakshit) participated here.
 + [Sehej Bakshi](https://github.com/SehejBakshi) participated here.
 + [Saurav Singh Rauthan](https://github.com/Saurav-Singh-Rauthan) participated here.
-
++ [Pranjal Singh](https://github.com/expPranjal) participated here.
