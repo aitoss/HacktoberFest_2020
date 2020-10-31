@@ -546,7 +546,7 @@ const participants = [
         "year": "BE - 2022",
         "linkedIn": "https://www.linkedin.com/in/pranjal-singh-swimmer/",
         "github": "https://github.com/expPranjal",
-        "skills": ['Python','C++', 'SQL'],
+        "skills": ['Python','C++', 'SQL','HTML'],
         "description": "Learner"
     }
     
