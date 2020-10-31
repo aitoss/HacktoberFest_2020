@@ -544,7 +544,7 @@ const participants = [
         "img": "https://avatars0.githubusercontent.com/u/46682196?s=400&u=93ee3a609003f37f6349658dd679e5cb6b67dbea&v=4",
         "title": "Participant",
         "year": "BE - 2022",
-        "linkedIn": "https://www.linkedin.com/in/exppranjal",
+        "linkedIn": "https://www.linkedin.com/in/pranjal-singh-swimmer/",
         "github": "https://github.com/expPranjal",
         "skills": ['Python','C++', 'SQL'],
         "description": "Learner"
