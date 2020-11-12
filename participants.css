@@ -41,6 +41,7 @@ p {
     width: 100%;
     text-align: center;
     padding-top: 40px;
+    box-shadow: 5px 10px 18px #888888; /*added box shadow for better look*/
 }
 
 .card-container .pro {
